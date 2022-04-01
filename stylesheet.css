@@ -23,7 +23,7 @@ header {
    color: #576286;;
 }
 
-.top-wrapper {
+.top-wrapper img{
     background: cover;
     height: 500px;
     z-index: 0;
