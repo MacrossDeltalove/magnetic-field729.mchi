@@ -1,0 +1,30 @@
+header {
+    border-bottom:2px solid #a7a7a7;
+    float: left;
+    height: 68px
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.header-logo {
+    color: #fa81e2;
+    background: -webkit-linear-gradient (0deg, #59b2ff #fa81e2 #fff944);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 15px;
+
+}
+
+.header-list {
+   float: right;
+   color: #576286;;
+}
+
+.top-wrapper {
+    background-image: url();
+    background: cover;
+    height: 120px;
+}
