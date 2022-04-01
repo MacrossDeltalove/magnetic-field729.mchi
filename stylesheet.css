@@ -5,7 +5,7 @@ header {
 }
 
 .container {
-    width: 1170px;
+    width: 700px;
     margin: 0 auto;
 }
 
@@ -25,5 +25,10 @@ header {
 
 .top-wrapper {
     background: cover;
-    height: 1000px;
+    height: 500px;
+}
+
+.top-message {
+    z-index: 10;
+    
 }
