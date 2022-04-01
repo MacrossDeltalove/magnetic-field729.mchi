@@ -26,6 +26,7 @@ header {
 .top-wrapper {
     background: cover;
     height: 500px;
+    z-index: 0;
 }
 
 .top-message {
