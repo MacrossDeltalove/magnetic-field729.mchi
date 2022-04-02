@@ -14,7 +14,7 @@ li {
 
 header {
     height: 60px;
-    padding: 30px 20px;
+
         
 }
 
@@ -27,7 +27,7 @@ header h1 {
 header a {
    color: #576286;
    padding: 30px 20px;
-   
+   float: right;
 }
 
 .top-wrapper {
