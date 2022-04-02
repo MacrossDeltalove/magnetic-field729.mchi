@@ -19,7 +19,7 @@ header {
 
 header h1 {
     color: #fa81e2;
-    
+    padding: 30px 20px;
     display: flex;
 }
 
