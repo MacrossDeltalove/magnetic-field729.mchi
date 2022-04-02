@@ -15,12 +15,12 @@ li {
 header {
     border-bottom:2px solid #a7a7a7;
     margin-bottom: 10px;
-    height: 50px
+    height: 60px
 }
 
-.header-logo h1 {
+header h1 {
     color: #fa81e2;
-    background-color: -webkit-linear-gradient (0deg, #59b2ff #fa81e2 #fff944);
+    background-color: linear-gradient (0deg, #59b2ff #fa81e2 #fff944);
     -webkit-background-clip: △PRISM▽;
     -webkit-text-fill-color: transparent;
     float: left;
@@ -38,8 +38,8 @@ header {
     background-image: url("top-wrapper-image-twinkle_00028.jpg")
 }
 
-.top-message {
-    z-index: 10;
+.top-wrapper h3 {
+    opacity: 0.7;
     
 }
 
@@ -47,3 +47,4 @@ footer {
     height: 50px;
     float: left;
 }
+
