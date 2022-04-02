@@ -13,7 +13,7 @@ li {
 
 header {
     border-bottom:2px solid #a7a7a7;
-    
+    margin-bottom: 10px;
     height: 50px
 }
 
@@ -33,7 +33,7 @@ header {
 
 .top-wrapper {
     padding: 150px 0;
-    height: 400px;
+    height: 300px;
     background-size: cover;
     background-image: url("top-wrapper-image-twinkle_00028.jpg")
 }
