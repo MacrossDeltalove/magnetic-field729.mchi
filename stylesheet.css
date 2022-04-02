@@ -17,21 +17,24 @@ header {
     border-bottom: 2px solid #a7a7a7;
     margin-bottom: 20px;
     padding: 30px 30px;
+    display: flex;
 }
 
 header img {
     height: 50px;
     width: 60px;
+    float: left;
     
 }
 
-.header h5{
+.header h4{
    color: #576286;
    float: right;
 }
 
-.header li{
+.header li {
     padding: 0 60px;
+    display: flex;
 }
 
 .top-wrapper {
