@@ -17,7 +17,7 @@ header {
     height: 80px
 }
 
-.header-logo {
+.header-logo h1 {
     color: #fa81e2;
     background: -webkit-linear-gradient (0deg, #59b2ff #fa81e2 #fff944);
     -webkit-background-clip: text;
@@ -33,7 +33,7 @@ header {
 }
 
 .top-wrapper {
-    padding: 180px 0;
+    padding: 150px 0;
     height: 500px;
     background-size: cover;
     background-image: url("top-wrapper-image-twinkle_00028.jpg")
