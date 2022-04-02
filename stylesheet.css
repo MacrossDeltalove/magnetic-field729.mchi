@@ -10,7 +10,7 @@ body {
 header {
     border-bottom:2px solid #a7a7a7;
     float: left;
-    height: 68px
+    height: 100px
 }
 
 .header-logo {
@@ -28,7 +28,7 @@ header {
 }
 
 .top-wrapper {
-    height: 600px;
+    height: 500px;
     background-size: cover;
     background-image: url("top-wrapper-image-twinkle_00028.jpg")
 }
