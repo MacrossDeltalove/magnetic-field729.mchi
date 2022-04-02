@@ -13,9 +13,8 @@ li {
 }
 
 header {
-    height: 60px
-    display: flex;
-    padding: 30px 20px
+    height: 60px;
+    padding: 30px 20px;
         
 }
 
@@ -28,8 +27,7 @@ header h1 {
 header a {
    color: #576286;
    padding: 30px 20px;
-   border-bottom: 2px solid #a7a7a7;
-   margin-bottom: 10px;
+   
 }
 
 .top-wrapper {
