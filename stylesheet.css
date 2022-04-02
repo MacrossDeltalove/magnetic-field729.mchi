@@ -2,6 +2,10 @@ body {
     margin: 0;
 }
 
+li {
+   list-style: none;
+}
+
 .container {
     width: 1170px;
     margin: 0 auto;
@@ -19,6 +23,7 @@ header {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 15px;
+    float: left;
 
 }
 
