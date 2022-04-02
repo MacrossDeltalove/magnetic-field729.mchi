@@ -26,14 +26,14 @@ header img {
     
 }
 
-.header h4{
+.header-right {
    color: #576286;
    font-weight: normal;
    float: right;
    
 }
 
-.header li {
+.header-right li {
     margin: 10px 60px;
     float: left;
     display: inline-block;
