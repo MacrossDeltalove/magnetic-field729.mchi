@@ -9,13 +9,6 @@ header {
 }
 
 
-
-.container {
-    width: 700px;
-    margin: 0 auto;
-    z-index: 0;
-}
-
 .header-logo {
     color: #fa81e2;
     background: -webkit-linear-gradient (0deg, #59b2ff #fa81e2 #fff944);
