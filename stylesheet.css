@@ -17,7 +17,7 @@ header {
     border-bottom: 2px solid #a7a7a7;
     margin-bottom: 20px;
     padding: 30px 30px;
-    display: inline-block;
+    
 }
 
 header img {
@@ -36,6 +36,7 @@ header img {
 .header li {
     margin: 10px 60px;
     float: left;
+    display: inline-block;
 }
 
 .top-wrapper {
