@@ -16,12 +16,12 @@ header {
     height: 60px;
     border-bottom: 2px solid #a7a7a7;
     margin-bottom: 20px;
+    padding: 30px 30px;
 }
 
-header h1 {
-    color: #fa81e2;
-    padding-left: 30px;
+header img {
     display: flex;
+    
 }
 
 .header-right {
@@ -30,7 +30,7 @@ header h1 {
 }
 
 .header-right li {
-    padding: 20px 30px;
+    padding: 20px 60px;
 }
 
 .top-wrapper {
