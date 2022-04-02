@@ -29,8 +29,8 @@ header img {
    float: right;
 }
 
-.header-right li {
-    padding: 20px 60px;
+.header-right a{
+    padding: 0 60px;
 }
 
 .top-wrapper {
