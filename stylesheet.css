@@ -19,14 +19,15 @@ header {
 
 header h1 {
     color: #fa81e2;
-    border-bottom: 2px solid #a7a7a7;
-    margin-bottom: 10px;
+    
     display: flex;
 }
 
 header a {
    color: #576286;
    padding: 30px 20px;
+   border-bottom: 2px solid #a7a7a7;
+   margin-bottom: 10px;
 }
 
 .top-wrapper {
