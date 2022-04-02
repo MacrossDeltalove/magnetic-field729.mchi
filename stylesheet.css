@@ -20,16 +20,16 @@ header {
 }
 
 header img {
-    display: flex;
+    
     
 }
 
-.header-right {
+.header h5{
    color: #576286;
    float: right;
 }
 
-.header-right a{
+.header-right li{
     padding: 0 60px;
 }
 
