@@ -20,13 +20,11 @@ header {
 
 header h1 {
     color: #fa81e2;
-    background-color: linear-gradient (0deg, #59b2ff #fa81e2 #fff944);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    
     float: left;
 }
 
-.header-list {
+.header-list li {
    float: right;
    color: #576286;;
 }
