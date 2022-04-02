@@ -1,15 +1,10 @@
-header li {
-   list-style: none;
-}
-
 header {
     border-bottom:2px solid #a7a7a7;
     float: left;
     height: 68px
 }
 
-
-.header-logo h1{
+.header-logo {
     color: #fa81e2;
     background: -webkit-linear-gradient (0deg, #59b2ff #fa81e2 #fff944);
     -webkit-background-clip: text;
@@ -18,9 +13,13 @@ header {
 
 }
 
-.header-list li{
+.header-list {
    float: right;
    color: #576286;;
+}
+
+.top-wrapper {
+    height: 600px;
 }
 
 .top-message {
