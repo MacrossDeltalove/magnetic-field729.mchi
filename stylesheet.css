@@ -20,10 +20,7 @@ header {
 
 .header-logo h1 {
     color: #fa81e2;
-    background-color: -webkit-linear-gradient (0deg, #59b2ff #fa81e2 #fff944);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    float: left;
+    
 
 
 }
