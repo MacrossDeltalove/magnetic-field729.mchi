@@ -21,6 +21,7 @@ header h1 {
     color: #fa81e2;
     border-bottom: 2px solid #a7a7a7;
     margin-bottom: 10px;
+    display: flex;
 }
 
 header a {
