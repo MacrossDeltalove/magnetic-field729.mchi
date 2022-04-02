@@ -26,8 +26,11 @@ header h1 {
 
 .header-right {
    color: #576286;
-   
    float: right;
+}
+
+.header-right li {
+    padding: 20px 30px;
 }
 
 .top-wrapper {
