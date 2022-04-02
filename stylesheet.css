@@ -14,7 +14,7 @@ li {
 header {
     border-bottom:2px solid #a7a7a7;
     
-    height: 650px
+    height: 50px
 }
 
 .header-logo h1 {
@@ -33,8 +33,8 @@ header {
 }
 
 .top-wrapper {
-    padding: 100px 0;
-    height: 500px;
+    padding: 150px 0;
+    height: 400px;
     background-size: cover;
     background-image: url("top-wrapper-image-twinkle_00028.jpg")
 }
