@@ -33,6 +33,7 @@ header {
 }
 
 .top-wrapper {
+    padding: 180px 0;
     height: 500px;
     background-size: cover;
     background-image: url("top-wrapper-image-twinkle_00028.jpg")
