@@ -29,6 +29,7 @@ header img {
 .header h4{
    color: #576286;
    float: right;
+   font-type: normal;
 }
 
 .header li {
