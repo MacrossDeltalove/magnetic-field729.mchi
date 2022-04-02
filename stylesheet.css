@@ -14,13 +14,12 @@ li {
 
 header {
     height: 60px;
-
-        
+      
 }
 
 header h1 {
     color: #fa81e2;
-    padding: 30px 20px;
+    padding-left: 30px;
     display: flex;
 }
 
