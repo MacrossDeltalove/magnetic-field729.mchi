@@ -24,9 +24,9 @@ header h1 {
     display: flex;
 }
 
-header a {
+.header-right {
    color: #576286;
-   padding: 0 20px;
+   
    float: right;
 }
 
