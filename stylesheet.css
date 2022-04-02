@@ -23,10 +23,10 @@ header h1 {
     margin-bottom: 10px;
 }
 
-.header-list a {
+header a {
    float: right;
    color: #576286;
-   padding: 30px;
+   padding: 30px 20px;
 }
 
 .top-wrapper {
