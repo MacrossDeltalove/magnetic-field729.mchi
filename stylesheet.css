@@ -16,6 +16,7 @@ header {
     border-bottom:2px solid #a7a7a7;
     margin-bottom: 10px;
     height: 60px
+        display: flex;
 }
 
 header h1 {
