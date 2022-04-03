@@ -30,11 +30,12 @@ header img {
    color: #576286;
    font-weight: normal;
    float: right;
+    display: inline-block;
    
 }
 
 .header-right li {
-    margin: 10px 60px;
+    margin: 10px 40px;
     float: left;
     display: inline-block;
 }
