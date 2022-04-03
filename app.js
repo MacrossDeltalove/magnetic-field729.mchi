@@ -32,8 +32,8 @@ app.get('/wind.html', (req, res) => {
 });
 
 //美徳・法則たち一覧
-app.get('/virtue-law.list.html', (req, res) => {
-  res.render('virtue-law.list.html');
+app.get('/virtue-law.html', (req, res) => {
+  res.render('virtue-law.html');
 });
 
 app.get('/top.html', (req, res) => {
