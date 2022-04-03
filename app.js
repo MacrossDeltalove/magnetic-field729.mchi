@@ -28,14 +28,14 @@ connection.connect((err) => {
 
 //風のエレメントの美徳ページ//
 app.get('/wind.html', (req, res) => {
-  res.render('wind.ejs');
+  res.render('wind.html');
 });
 
 //美徳・法則たち一覧
 app.get('/virtue-law.list.html', (req, res) => {
-  res.render('virtue-law.list.ejs');
+  res.render('virtue-law.list.html');
 });
 
 app.get('/top.html', (req, res) => {
-  res.render('top.ejs');
+  res.render('top.html');
 });
