@@ -27,12 +27,12 @@ connection.connect((err) => {
 });
 
 //風のエレメントの美徳ページ//
-app.get('/wind.html', (req, res) => {
+app.get('/wind', (req, res) => {
   res.render('wind.html');
 });
 
 //美徳・法則たち一覧
-app.get('/virtue-law.html', (req, res) => {
+app.get('/virtue-law', (req, res) => {
   res.render('virtue-law.html');
 });
 
