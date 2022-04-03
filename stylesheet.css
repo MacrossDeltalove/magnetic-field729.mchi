@@ -27,7 +27,6 @@ header img {
 }
 
 .header-right {
-   color: #576286;
    font-weight: normal;
    float: right;
     display: inline-block;
@@ -38,10 +37,10 @@ header img {
     margin: 10px 40px;
     float: left;
     display: inline-block;
+    color: #576286;
 }
 
 .top-wrapper {
-    padding: 150px 0;
     height: 300px;
     background-size: cover;
     background-image: url("top-wrapper-image-twinkle_00028.jpg")
@@ -55,5 +54,6 @@ header img {
 footer {
     height: 50px;
     float: left;
+    
 }
 
