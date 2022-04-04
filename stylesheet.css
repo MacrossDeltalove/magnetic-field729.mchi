@@ -73,8 +73,10 @@ footer {
     padding: 13px 30px;
 }
 
-.footer-logo h1 {
+.footer-logo img {
     float: left;
+    height: 40px;
+    width: 300px
    
 }
 
