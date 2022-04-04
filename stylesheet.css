@@ -47,7 +47,7 @@ header img {
 
 .header-right a {
     color: #ffffff;
-    background-color: #576286;
+    background-color: #8b8b8b;
 }
 
 .top-wrapper {
@@ -65,8 +65,7 @@ header img {
 
 footer {
     height: 50px;
-    float: left;
-    background-color: #576286;
+    background-color: #8b8b8b;
 }
 
 .footer-logo {
