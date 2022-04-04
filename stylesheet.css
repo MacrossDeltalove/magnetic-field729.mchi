@@ -47,10 +47,10 @@ header img {
 .header-right a {
     color: #ffffff;
     background-color: #8b8b8b;
-    padding: 20px 40px;
+    padding: 13px 40px;
 }
 
-.header-right a: hover {
+.header-right a:hover {
     background-color: #adadad;
 }
 
@@ -64,7 +64,7 @@ header img {
 .top-wrapper h3 {
     opacity: 0.7;
     font-weight: normal;
-    font-size: 40px;
+    font-size: 25px;
 }
 
 footer {
@@ -73,11 +73,12 @@ footer {
 }
 
 .footer-logo {
-   float: left;
-   display: inline-block;
+    float: left;
+   
 }
 
 .footer-list {
-   text-align: center;
-   display: inline-block;
+    text-align: center;
+    display: inline-block;
+    color: #ffffff;
 }
