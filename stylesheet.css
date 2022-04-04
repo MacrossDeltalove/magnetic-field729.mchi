@@ -46,7 +46,7 @@ header img {
 
 .header-right a {
     color: #ffffff;
-    background-color: #69FFFF;
+    background-color: #2DD2FF;
     padding: 13px 40px;
 }
 
@@ -69,14 +69,14 @@ header img {
 
 footer {
     height: 100px;
-    background-color: #8b8b8b;
+    background-color: #CA6FFD;
     padding: 13px 30px;
 }
 
 .footer-logo img {
     float: left;
     height: 40px;
-    width: 100px
+    width: 200px
    
 }
 
