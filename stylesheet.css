@@ -50,6 +50,10 @@ header img {
     padding: 20px 40px;
 }
 
+.header-right a: hover {
+    
+}
+
 .top-wrapper {
     height: 400px;
     background-size: cover;
@@ -70,8 +74,10 @@ footer {
 
 .footer-logo {
    float: left;
+   display: inline-block;
 }
 
 .footer-list {
-text-align: center;
+   text-align: center;
+   display: inline-block;
 }
