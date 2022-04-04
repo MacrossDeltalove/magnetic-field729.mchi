@@ -21,7 +21,7 @@ header {
     height: 60px;
     border-bottom: 2px solid #a7a7a7;
     margin-bottom: 20px;
-    padding: 10px 30px;
+    padding: 20px 30px;
     
 }
 
@@ -48,6 +48,7 @@ header img {
 .header-right a {
     color: #ffffff;
     background-color: #8b8b8b;
+    padding: 20px 40px;
 }
 
 .top-wrapper {
