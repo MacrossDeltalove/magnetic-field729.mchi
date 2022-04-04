@@ -14,7 +14,7 @@ a {
 .container {
     width: 1170px;
     margin: 0 auto;
-    padding: 0 15px;
+    padding: 15px 15px;
 }
 
 header {
@@ -63,16 +63,16 @@ header img {
 
 .top-wrapper h3 {
     opacity: 0.7;
-    font-weight: normal;
-    font-size: 25px;
+    font-size: 15px;
 }
 
 footer {
     height: 100px;
     background-color: #8b8b8b;
+    padding: 13px 30px;
 }
 
-.footer-logo {
+.footer-logo h1 {
     float: left;
    
 }
@@ -80,5 +80,9 @@ footer {
 .footer-list {
     text-align: center;
     display: inline-block;
+    color: #ffffff;
+}
+
+.footer-list a {
     color: #ffffff;
 }
