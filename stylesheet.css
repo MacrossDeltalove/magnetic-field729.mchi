@@ -71,7 +71,7 @@ footer {
     height: 100px;
     background-color: #CA6FFD;
     padding: 13px 30px;
-    text-align: center;
+    
 }
 
 .footer-logo img {
@@ -81,8 +81,8 @@ footer {
    
 }
 
-.footer-list {
-    
+.footer-list p{
+    text-align: center;
    
     color: #ffffff;
 }
