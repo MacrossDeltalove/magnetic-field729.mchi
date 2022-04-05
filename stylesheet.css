@@ -90,6 +90,7 @@ footer {
 .footer-list a {
     color: #ffffff;
     display: inline-block;
+    text-align: center;
 }
 
 .footer-list a:hover {
