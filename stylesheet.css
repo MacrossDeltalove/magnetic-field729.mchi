@@ -64,7 +64,7 @@ header img {
 .top-wrapper h3 {
     opacity: 0.7;
     font-size: 20px;
-    padding: 80px 60px;
+    padding: 60px 60px;
 }
 
 footer {
@@ -100,4 +100,8 @@ footer {
 
 .contents li {
     padding: 13px 0px;
+}
+
+.article-list {
+    border: 2px solid #7CFCA1;
 }
