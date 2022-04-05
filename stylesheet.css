@@ -51,11 +51,11 @@ header img {
 }
 
 .header-right a:hover {
-    background-color: #adadad;
+    background-color: #A3EBFF;
 }
 
 .top-wrapper {
-    height: 400px;
+    height: 300px;
     background-size: cover;
     background-image: url("top-wrapper-image-twinkle_00028.jpg")
    
