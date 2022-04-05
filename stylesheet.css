@@ -95,3 +95,7 @@ footer {
 .footer-list a:hover {
     text-decoration: underline;
 }
+
+.contents li {
+    padding: 13px 0px;
+}
