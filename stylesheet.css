@@ -79,10 +79,11 @@ footer {
     height: 40px;
     width: 200px
     display: inline-block;
+    marign-top: 15px;
    
 }
 
-.footer-list p{
+.footer-list {
     text-align: center;
    
     color: #ffffff;
