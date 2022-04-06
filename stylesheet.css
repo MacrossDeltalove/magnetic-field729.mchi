@@ -19,7 +19,7 @@ a {
 
 header {
     height: 60px;
-    border-bottom: 4px solid #a7fbff;
+    border-bottom: 2px solid #a7fbff;
     margin-bottom: 20px;
     padding: 13px 30px;
     
@@ -65,7 +65,7 @@ header img {
 .top-wrapper h3 {
     opacity: 0.7;
     font-size: 20px;
-    padding: 60px 20px;
+    padding: 60px 0px;
 }
 
 footer {
@@ -113,7 +113,7 @@ footer {
 }
 
 .contents-wrapper h3 {
-    color: #ffe771;
+    color: #a7fbff;
 }
 
 .contents-wrapper li {
@@ -133,5 +133,5 @@ footer {
 }
 
 .news-wrapper h3 {
-    padding: 13px;
+
 }
