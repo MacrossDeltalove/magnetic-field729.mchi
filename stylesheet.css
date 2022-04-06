@@ -71,18 +71,10 @@ footer {
     height: 100px;
     background-color: #CA6FFD;
     padding: 13px 30px;
-    float: left;
     text-align: center;
 }
 
-.footer-logo img {
-    float: left;
-    height: 40px;
-    width: 100px;
-    display: inline;
-    marign-top: 15px;
-   
-}
+
 
 .footer-list {
     text-align: center;
@@ -134,5 +126,5 @@ footer {
 }
 
 .contents-wrapper a:hover {
-    background-color: #c0cbc9;
+    background-color: #e3e3e3;
 }
