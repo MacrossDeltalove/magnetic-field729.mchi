@@ -58,7 +58,7 @@ header img {
     height: 300px;
     background-size: cover;
     background-image: url("top-wrapper-image-twinkle_00028.jpg");
-    width: 100%;
+  
    
 }
 
@@ -71,7 +71,7 @@ header img {
 footer {
     height: 100px;
     background-color: #CA6FFD;
-    width: 100%;
+
     padding: 13px 30px;
     text-align: center;
 }
@@ -125,7 +125,7 @@ footer {
     padding: 13px 20px;
     background-color: #ffffff;
     color: #fd7ee1;
-    width: 100%;
+  
 }
 
 .contents-wrapper a:hover {
