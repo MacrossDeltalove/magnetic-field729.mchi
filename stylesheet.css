@@ -71,14 +71,14 @@ footer {
     height: 100px;
     background-color: #CA6FFD;
     padding: 13px 30px;
-    text-align: center;
+    float: left;
 }
 
 .footer-logo img {
     float: left;
     height: 40px;
     width: 200px
-    display: inline-block;
+    display: inline;
     marign-top: 15px;
    
 }
@@ -107,7 +107,7 @@ footer {
 }
 
 .contents-wrapper {
-    height: 450px;
+    height: 600px;
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/2515908_m.jpg?raw=true");
     background-size: cover;
     padding: 20px 60px;
@@ -116,3 +116,12 @@ footer {
 .contents-wrapper h3 {
     color: #ffe771;
 }
+
+.contents-wrapper li {
+    marign: 0px 20px;
+}
+
+.contents-wrapper a {
+    padding: 13px 20px;
+    background-color: #ffffff;
+    color: #bcbcbc;
