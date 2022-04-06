@@ -19,7 +19,7 @@ a {
 
 header {
     height: 60px;
-    border-bottom: 2px solid #a7a7a7;
+    border-bottom: 4px solid #0000be;
     margin-bottom: 20px;
     padding: 13px 30px;
     
@@ -130,4 +130,9 @@ footer {
 .contents-wrapper a {
     padding: 13px 20px;
     background-color: #ffffff;
-    color: #bcbcbc;
+    color: #fd7ee1;
+}
+
+.contetns-wrapper a:hover {
+    background-color: #c0cbc9;
+}
