@@ -123,6 +123,7 @@ footer {
 .contents-wrapper a {
     padding: 13px 40px;
     background-color: #ffffff;
+    opacity: 0.5
     color: #53ff95;
   
 }
