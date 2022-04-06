@@ -72,15 +72,20 @@ footer {
     background-color: #CA6FFD;
     padding: 13px 30px;
     float: left;
+    text-align: center;
 }
 
 .footer-logo img {
     float: left;
     height: 40px;
-    width: 200px
+    width: 100px;
     display: inline;
     marign-top: 15px;
    
+}
+
+.footer-list {
+    text-align: center;
 }
 
 .footer-list p{
@@ -119,6 +124,7 @@ footer {
 
 .contents-wrapper li {
     marign: 0px 20px;
+    float: left;
 }
 
 .contents-wrapper a {
