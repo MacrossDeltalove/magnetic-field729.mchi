@@ -117,13 +117,12 @@ footer {
 }
 
 .contents-wrapper li {
-    marign: 0px 20px;
     float: left;
 }
 
 .contents-wrapper a {
-    padding: 13px 20px;
-    background-color: #ffffff;
+    padding: 13px 40px;
+    background-color: #53ff95;
     color: #fd7ee1;
   
 }
