@@ -142,11 +142,11 @@ footer {
 
 .article-list {
     box-sizing: border-box;
-    border: 2px solid #7CFCA1;
+    border: none;
     background-color: #ffffff; 
-    opacity: 0.5;
+    opacity: 0.7;
     padding: 20px;
-    width: 500px;
+    width: 600px;
 }
 
 .article-list h3 {
