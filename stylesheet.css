@@ -150,5 +150,7 @@ footer {
    
 }
 
-.article-list h1 {
+.article-list li {
+    margin: 10px 10px;
+}
     
