@@ -12,7 +12,7 @@ a {
 }
 
 .container {
-    width: 1200px;
+    width: 1300px;
     margin: 0 auto;
 
 }
@@ -138,6 +138,7 @@ footer {
 .article {
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/2515908_m.jpg?raw=true");
     background-size: cover;
+    float: left;
 }
 
 .article-list {
