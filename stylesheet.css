@@ -136,7 +136,7 @@ footer {
 }
 
 .article {
-    background-image: url("");
+    background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/2515908_m.jpg?raw=true");
     background-size: cover;
 }
 
@@ -145,5 +145,9 @@ footer {
     border: 2px solid #7CFCA1;
     background-color: #ffffff; 
     opacity: 0.5;
-    
+    padding: 20px;
+    width: 500px;
 }
+
+.article-list h3 {
+    
