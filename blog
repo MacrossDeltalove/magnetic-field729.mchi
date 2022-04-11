@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html> 
+<head>
+    <meta charset="utf-8">
+    <title>PRISM</title>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+    <header>
+       <img src="PRISM.jpg">
+             <ul class="header-right">
+                 <li><a href="/magnetic-field729.mchi/top.html">TOP</a></li>
+                 <li><a href="/magnetic-field729.mchi/profile">プロフィール</a></li>
+                 <li><a href="/magnetic-field729.mchi/session-menu">セッションメニュー</a></li>
+                 <li><a href="/magnetic-field729.mchi/virtue-law.list.html">美徳・法則</a></li>
+                 <li><a href="/magnetic-field729.mchi/blog-top">ブログ</a></li>
+                 <li><a href="/magnetic-field729.mchi/quiry">お問い合わせ</a></li>
+             </ul>
+    </header>
+
+<div class="article">
+  <div class="container">
+    <div class="article-list">
+            <h1>BLOG</h1>
+            
+                <ul>
+                    <li><a href="/walkure-live">Walküre Reborn! LIVE 2022　に行ってきました！</a></li>
+                </ul>
+      </div>       
+    </div>
+</div>
+        
+    <footer>
+        <div class="container">
+            
+            <div class="footer-list">
+                <p>©△PRISM▽ All Rights Reserved.</p>
+                <a href="https://www.beiz.jp/">Designed and destributed by BEIZ images</a>
+                
+            </div>
+        </div>
+    </footer>
+    </body>
+</html>
