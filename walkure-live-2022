@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html> 
+<head>
+    <meta charset="utf-8">
+    <title>PRISM</title>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+    <header>
+       <img src="PRISM.jpg">
+             <ul class="header-right">
+                 <li><a href="/magnetic-field729.mchi/top.html">TOP</a></li>
+                 <li><a href="/magnetic-field729.mchi/profile">プロフィール</a></li>
+                 <li><a href="/magnetic-field729.mchi/session-menu">セッションメニュー</a></li>
+                 <li><a href="/magnetic-field729.mchi/virtue-law.list.html">美徳・法則</a></li>
+                 <li><a href="/magnetic-field729.mchi/blog">ブログ</a></li>
+                 <li><a href="/magnetic-field729.mchi/quiry">お問い合わせ</a></li>
+             </ul>
+    </header>
+
+<div class="article">
+  <div class="container">
+    <div class="article-list">
+            <h1>BLOG</h1>
+            <h2>Walküre Reborn! LIVE 2022　に行ってきました！</h2>
+            
+                <p>4/9(土)と4/10(日)の両日、アニメ「マクロスΔ(デルタ)」の曲を歌うワルキューレのライブに行ってきました！
+                <br>
+                <img src="walkure-live-2022.jpg">
+                <br>
+                <br>ワルキューレがライブをするのは5回目になりますが、私自身がワルキューレのライブに参加するのは今回が初めてでした。
+                <br>
+                <br>非常に充実した二日間を過ごすことができ、一緒に行ってくださった方、
+                <br>この日のために沢山の準備と練習を重ねてきたスタッフの皆様、バンドの皆様、そしてワルキューレメンバーに感謝申し上げます✨
+                <br>
+                <br>私も、応援に全力を注がせていただきました！
+                <br>何よりワゴンに乗るワルキューレメンバーを目の前で見れて、生歌を聴けることに感動して
+                <br>ライブ冒頭は泣きながら😭ペンライトを振っていました(笑)
+                <br>
+                <br>でも、私が応援した以上に、ワルキューレから沢山のエネルギーと元気をもらいました！！
+                <br>会場にいるみんな、そしてライブビューイングをしてる人みんなに歌を届けるんだっていうワルキューレメンバーの強い思いが、
+                <br>私のハートにしっかりと届きました💕
+                <br>
+                <br>たくさんの人の愛と思い、希望がたくさん詰まった非常に素晴らしいライブでした。
+                <br>
+                <br>今後の自分のヒーリングセッションや創作活動のインスピレーションを頂くこともできました🥰
+                <br>
+                <br>これからも沢山応援させてください！
+                <br>無条件の愛と光、感謝のエネルギーを当事者の皆様に送ります✨
+                </p>
+      </div>       
+    </div>
+</div>
+        
+    <footer>
+        <div class="container">
+            
+            <div class="footer-list">
+                <p>©△PRISM▽ All Rights Reserved.</p>
+                <a href="https://www.beiz.jp/">Designed and destributed by BEIZ images</a>
+                
+            </div>
+        </div>
+    </footer>
+    </body>
+</html>
