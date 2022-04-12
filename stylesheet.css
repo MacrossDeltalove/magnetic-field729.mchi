@@ -154,5 +154,6 @@ footer {
     margin: 10px 10px;
 }
     
-.article-list a {
-    color: 
+.article-list img{
+    opacity: 1.0;
+}
