@@ -160,3 +160,8 @@ footer {
     width:600px;
     padding: 5px 30px;
 }
+
+.article-list h5 {
+    font-weight: normal;
+    padding: 0px 20px;
+}
