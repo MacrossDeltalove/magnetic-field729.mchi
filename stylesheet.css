@@ -154,6 +154,8 @@ footer {
     margin: 10px 10px;
 }
     
-.article-list img{
+.article-list img {
     opacity: 1.0;
+    height: 300px;
+    width:400px;
 }
