@@ -169,3 +169,8 @@ footer {
     font-weight: normal;
     padding: 0px 20px;
 }
+
+.session-menu {
+    background-image: url("palace-door_snao_202204142211");
+    background-size: cover;
+}
