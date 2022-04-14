@@ -107,7 +107,7 @@ footer {
     height: 1000px;
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/2515908_m.jpg?raw=true");
     background-size: cover;
-  
+    width: 100%;　 
 }
 
 .contents-wrapper h3 {
@@ -129,6 +129,10 @@ footer {
 .contents-wrapper a:hover {
     background-color: #a7fbff;
     
+}
+
+.door h4{
+    color: #ffffff
 }
 
 .news-wrapper h3 {
