@@ -172,12 +172,14 @@ footer {
 
 .explanation {
     
+}
+    
 
 .session-menu {
     margin: 40px 0px;
     background-color: rgba(255, 255, 255, 0.7);
     float: left;
-    width: 1000px;
+    width: 900px;
     height: 500px;
 }
 
