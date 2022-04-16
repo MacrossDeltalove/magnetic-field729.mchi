@@ -170,18 +170,14 @@ footer {
     padding: 0px 20px;
 }
 
-.explanation {
-    
-}
-    
 
 .session-menu {
     background-color: rgba(255, 255, 255, 0.7);
     box-sizing: border-box;
     border: none;
-    float: left;
+
     width: 900px;
-    height: 500px;
+    
 }
 
 
