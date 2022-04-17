@@ -66,8 +66,11 @@ header img {
     border-top: 1px solid #ffffff;
 }
 
-.header-right li:hover > ul > li {
-    
+.header-right li:hover ul {
+    position: absolute;
+    top: 13px;
+    left: 0px;
+    display: block;
     overflow: visible;
     }
 
