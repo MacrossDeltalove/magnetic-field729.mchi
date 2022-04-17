@@ -55,6 +55,20 @@ header img {
     transition: 0.8s;
 }
 
+.header-right li li {
+    height: 0px;
+    overflow: hidden;
+    transition: 0.7s
+}
+
+.header-right li li a {
+    border-top: 1px solid #ffffff;
+
+.header-right li:hover > ul > li {
+    
+    overflow: visible;
+    }
+
 .top-wrapper {
     height: 300px;
     background-size: cover;
@@ -196,3 +210,6 @@ footer {
     height: 1000px;
 }
 
+.sub:hover {
+    
+    
