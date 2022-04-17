@@ -63,7 +63,7 @@ header img {
     border-top: 1px solid #ffffff;
 }
 
-.header-right > li:hover ul a{
+.header-right > li:hover ul {
     position: absolute;
     top: 39px;
     left: 0px;
