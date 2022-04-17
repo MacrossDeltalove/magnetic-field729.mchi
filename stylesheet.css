@@ -38,11 +38,14 @@ header img {
    
 }
 
-.header-right li {
+.header-right > li {
     float: left;
     display: inline-block;
     position: relative;
+}
 
+.header-right > li > ul {
+    display: none;
 }
 
 .header-right a {
@@ -60,13 +63,12 @@ header img {
     border-top: 1px solid #ffffff;
 }
 
-.header-right li:hover ul {
+.header-right > li:hover ul {
     position: absolute;
     top: 26px;
     left: 0px;
-    
+    padding: 13px 40px;
     display: block;
-    
     }
 
 .top-wrapper {
