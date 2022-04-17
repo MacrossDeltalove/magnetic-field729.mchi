@@ -56,20 +56,15 @@ header img {
     transition: 0.8s;
 }
 
-.header-right li li {
-    height: 0px;
-   
-    transition: 0.7s
-}
-
 .header-right li li a {
     border-top: 1px solid #ffffff;
 }
 
 .header-right li:hover ul {
     position: absolute;
-    top: 13px;
+    top: 26px;
     left: 0px;
+    
     display: block;
     
     }
