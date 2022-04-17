@@ -40,7 +40,8 @@ header img {
 
 .header-right li {
     float: left;
-    display: inline-block;
+    display: block;
+    position: relative;
 
 }
 
