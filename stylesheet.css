@@ -58,7 +58,7 @@ header img {
 
 .header-right li li {
     height: 0px;
-    overflow: hidden;
+   
     transition: 0.7s
 }
 
