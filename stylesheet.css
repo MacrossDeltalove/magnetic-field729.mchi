@@ -63,12 +63,14 @@ header img {
     border-top: 1px solid #ffffff;
 }
 
-.header-right > li:hover ul {
+.header-right > li:hover ul a{
     position: absolute;
-    top: 26px;
+    top: 39px;
     left: 0px;
-    padding: 13px 40px;
+    padding: 13px 30px;
+    width: 100px;
     display: block;
+    transition: 0.7s;
     }
 
 .top-wrapper {
