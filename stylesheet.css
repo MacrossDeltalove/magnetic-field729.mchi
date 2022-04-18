@@ -39,22 +39,25 @@ header img {
    
 }
 
-.header-right > li {
+.header-right  li {
     float: left;
-    display: block;
+    display: inline-block;
     position: relative;
-  
+    padding: 13px 30px;
 }
 
-.header-right > li > ul {
+.header-right ul {
     display: none;
-    float: left;
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
 }
 
 .header-right a {
     color: #ffffff;
     background-color: #69DFFF;
-    padding: 13px 30px;
+    display:block;
+    line-height: 51px;
 }
 
 .header-right a:hover {
@@ -66,12 +69,9 @@ header img {
     border-top: 1px solid #ffffff;
 }
 
-.header-right > li:hover ul {
+.header-right li:hover ul {
     position: absolute;
     top: 51px;
-    left: 0px;
-    right: 40px;
-    width: 340px;
     display: block;
     transition: 0.7s;
    
@@ -227,7 +227,3 @@ footer {
     background-size: cover;
     height: 1000px;
 }
-
-.sub:hover {
-    
-    
