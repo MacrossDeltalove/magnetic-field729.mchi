@@ -203,6 +203,10 @@ footer {
     
 }
 
+.session-contents {
+    float: left;
+    padding: 0px 30px;
+}
 
 .session-contents img {
     height: 200px;
