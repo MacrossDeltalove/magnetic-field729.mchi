@@ -43,7 +43,7 @@ header img {
     float: left;
     display: inline-block;
     position: relative;
-    padding: 13px 30px;
+    width: 300px;
 }
 
 .header-right ul {
@@ -58,6 +58,7 @@ header img {
     background-color: #69DFFF;
     display:block;
     line-height: 51px;
+    padding: 13px 30px;
 }
 
 .header-right a:hover {
