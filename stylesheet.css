@@ -41,7 +41,7 @@ header img {
 
 .header-right > li {
     float: left;
-    display: inline-block;
+    display: block;
     position: relative;
   
 }
@@ -70,7 +70,7 @@ header img {
     position: absolute;
     top: 51px;
     left: 0px;
-    right: 30px;
+    right: 40px;
     width: 340px;
     display: block;
     transition: 0.7s;
@@ -208,7 +208,7 @@ footer {
 .session-contents h3 {
     color: #ffffff;
     background-color: #69DFFF;
-    padding-top: 30px;
+    padding: 13px 30px;
     
 }
     
