@@ -14,14 +14,14 @@ a {
 .container {
     width: 1300px;
     margin: 0 auto;
-
+ 
 }
 
 header {
     height: 60px;
     border-bottom: 2px solid #a7fbff;
     margin-bottom: 20px;
-    
+    padding: 13px 30px;
     
     
 }
