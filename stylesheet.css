@@ -43,11 +43,12 @@ header img {
     float: left;
     display: inline-block;
     position: relative;
-    padding: 
+  
 }
 
 .header-right > li > ul {
     display: none;
+    float: left;
 }
 
 .header-right a {
@@ -198,15 +199,23 @@ footer {
     background-color: rgba(255, 255, 255, 0.7);
     box-sizing: border-box;
     border: none;
-    padding-left:30px;
+    padding:30px;
     width: 900px;
     height: 100%;
     
 }
 
+.session-contents h3 {
+    color: #ffffff;
+    background-color: #69DFFF;
+    padding-top: 30px;
+    
+}
+    
 .session-contents img {
     height: 400px;
     width: 600px;
+    text-image: center;
     
     
     
