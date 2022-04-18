@@ -22,6 +22,7 @@ header {
     border-bottom: 2px solid #a7fbff;
     margin-bottom: 20px;
     padding: 13px 30px;
+    position: fixed;
     
 }
 
@@ -67,7 +68,7 @@ header img {
     position: absolute;
     top: 51px;
     left: 0px;
-    right: 15px;
+    right: 20px;
     width: 340px;
     display: block;
     transition: 0.7s;
