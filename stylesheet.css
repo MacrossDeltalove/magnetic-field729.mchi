@@ -73,11 +73,7 @@ header img {
     transition: 0.7s;
     }
 
-.header-right > li:hover > ul >li {
-    position: absolute;
-    top: 51px;
-    display: block;
-}
+
 
 .top-wrapper {
     height: 300px;
