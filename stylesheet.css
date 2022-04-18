@@ -63,10 +63,11 @@ header img {
     border-top: 1px solid #ffffff;
 }
 
-.header-right > li:hover ul {
+.header-right > li:hover ul li{
     position: absolute;
-    top: 52px;
+    top: 51px;
     right: 30px;
+    left: 30px;
     width: 340px;
     display: block;
     transition: 0.7s;
