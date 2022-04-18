@@ -65,8 +65,8 @@ header img {
 
 .header-right > li:hover ul {
     position: absolute;
-    top: 50px;
-    left: 0px;
+    top: 52px;
+    left: 30px;
     width: 340px;
     display: block;
     transition: 0.7s;
