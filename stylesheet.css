@@ -220,17 +220,19 @@ footer {
 .session-contents img {
     height: 400px;
     width: 500px;
-    padding: 0px 250px 0px 100px;
+    padding: 0px 400px 0px 100px;
 }
 
 .session-contents h4 {
     color: #ffffff;
-    background-color:#6bffd5;
+    background-color: #6bffd5;
+    padding: 10px;
 }
 
 .session-contents h5 {
     color: #ffffff;
     background-color: #69DFFF;
+    padding: 10px;
 }
 
     
