@@ -220,7 +220,7 @@ footer {
 .session-contents img {
     height: 400px;
     width: 500px;
-    text-align: center;
+    padding: 0px 100px 0px 100px;
     
     
     
