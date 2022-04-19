@@ -43,7 +43,7 @@ header img {
     float: left;
     display: inline-block;
     position: relative;
-    width: 240px;
+    width: 200px;
 }
 
 .header-right a {
@@ -67,7 +67,9 @@ header img {
     position: absolute;
 }
 
-
+.access {
+    width: 250px;
+}
 
 
 
