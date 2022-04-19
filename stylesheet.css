@@ -37,8 +37,6 @@ header img {
    font-weight: normal;
    float: right;
    z-index: 10;
-   
-   
 }
 
 .header-right  li {
@@ -46,9 +44,20 @@ header img {
     display: inline-block;
     position: relative;
     width: 200px;
-    
 }
 
+label {
+    display: block;
+    margin: 0px;
+    width: 200px;
+    color: #ffffff;
+    background-color: #69DFFF;
+    
+
+.header-right input {
+    display: none;
+}
+    
 .header-right a {
     color: #ffffff;
     background-color: #69DFFF;
