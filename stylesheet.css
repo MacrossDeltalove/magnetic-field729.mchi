@@ -213,7 +213,7 @@ footer {
 
 .session-contents h3 {
     color: #ffffff;
-    background-color: #69DFFF;
+    background-color: #CA6FFD;
     padding:  30px 13px;
     
 }
@@ -223,6 +223,10 @@ footer {
     width: 500px;
     padding: 0px 250px 0px 100px;
 }
+
+.session-contents h4 {
+    color: #ffffff;
+    background-color:#6bffd5;
 
 .session-contents h5 {
     color: #ffffff;
