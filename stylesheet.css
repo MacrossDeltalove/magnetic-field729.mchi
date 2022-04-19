@@ -69,11 +69,6 @@ header img {
     position: absolute;
 }
 
-.access {
-    width: 250px;
-}
-
-
 
 .header-right li li a {
     border-top: 1px solid #ffffff;
@@ -93,7 +88,7 @@ header img {
     height: 300px;
     background-size: cover;
     background-image: url("top-wrapper-image-twinkle_00028.jpg");
-  
+    z-index: 1;
    
 }
 
