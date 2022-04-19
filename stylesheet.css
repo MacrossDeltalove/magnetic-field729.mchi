@@ -46,19 +46,7 @@ header img {
     width: 200px;
 }
 
-label {
-    display: block;
-    margin: 0px;
-    width: 200px;
-    color: #ffffff;
-    background-color: #69DFFF;
-}
 
-    
-
-.header-right input {
-    display: none;
-}
     
 .header-right a {
     color: #ffffff;
