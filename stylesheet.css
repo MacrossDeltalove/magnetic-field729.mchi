@@ -44,6 +44,7 @@ header img {
     display: inline-block;
     position: relative;
     width: 200px;
+    margin-bottom: 20px;
 }
 
 .header-right a {
