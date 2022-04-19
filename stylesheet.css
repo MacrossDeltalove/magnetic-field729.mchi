@@ -29,7 +29,7 @@ header {
 header img {
     height: 50px;
     width: 300px;
-    padding-top: 25px;
+    padding-top: 15px;
     
 }
 
@@ -227,6 +227,7 @@ footer {
 .session-contents h4 {
     color: #ffffff;
     background-color:#6bffd5;
+}
 
 .session-contents h5 {
     color: #ffffff;
