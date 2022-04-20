@@ -241,4 +241,14 @@ footer {
     background-size: cover;
     height: 1000px;
 
-input text
+.btn submit {
+    padding: 10px 20px;
+    background-color: #8800ff;
+    color: #ffffff;
+    border-radius: 2px;
+    box-shadow: 0 0 3px 0 #5500a0;
+}
+
+.btn submint:hover {
+    
+    
