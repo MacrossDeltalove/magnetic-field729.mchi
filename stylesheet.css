@@ -93,7 +93,7 @@ header img {
 }
 
 .top-wrapper h3 {
-    opacity: 0.7;
+    padding: 40px 0px 0px 0px;
     font-size: 20px;
 
 }
@@ -160,13 +160,9 @@ footer {
     
 }
 
-.door h4{
-    color: #ffffff
-}
 
-.news-wrapper h3 {
 
-}
+
 
 .article {
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/2515908_m.jpg?raw=true");
