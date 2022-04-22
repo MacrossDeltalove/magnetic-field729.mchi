@@ -92,13 +92,15 @@ header img {
    
 }
 
-.top-wrapper h3 {
+.message h3 {
     padding: 40px 0px 0px 0px;
     font-size: 20px;
+    float: left;
 }
 
 .advertising {
     float: right;
+    padding-top: 0px;
 }
 
 footer {
