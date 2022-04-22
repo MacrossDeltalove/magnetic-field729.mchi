@@ -101,6 +101,8 @@ header img {
 .advertising {
     float: right;
     padding-top: 0px;
+    display: block;
+    padding-bottom: 30px;
 }
 
 footer {
