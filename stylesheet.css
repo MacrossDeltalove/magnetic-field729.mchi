@@ -95,7 +95,10 @@ header img {
 .top-wrapper h3 {
     padding: 40px 0px 0px 0px;
     font-size: 20px;
+}
 
+.advertising {
+    float: right;
 }
 
 footer {
