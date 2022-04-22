@@ -100,7 +100,7 @@ header img {
 
 .advertising {
     float: right;
-    padding: 0px 80px 0px 80px;
+    margin-left: 90px;
     display: block;
     padding-bottom: 30px;
     background-color: rgba(255, 255, 255, 0.7);
