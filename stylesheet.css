@@ -232,7 +232,7 @@ footer {
 .session-contents img {
     height: 400px;
     width: 500px;
-    padding: 0px 400px 0px 100px;
+    padding-left: 500px;
 }
 
 .session-contents h4 {
