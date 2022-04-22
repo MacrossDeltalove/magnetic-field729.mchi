@@ -100,15 +100,18 @@ header img {
 
 .advertising {
     float: right;
-    margin-left: 90px;
+    
     display: block;
     padding-bottom: 30px;
     background-color: rgba(255, 255, 255, 0.7);
     width: 500px;
     height: 100%;
-    text-alingn: center;
+    text-align: center;
 }
 
+.advertising img {
+    margin-left: 90px;
+}
 
 footer {
     height: 100px;
