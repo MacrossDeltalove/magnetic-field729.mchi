@@ -247,12 +247,6 @@ footer {
     padding: 5px;
 }
 
-    
-.inquiry-wrapper {
-    background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/2515908_m.jpg?raw=true");
-    background-size: cover;
-    height: 1000px;
-
 .btn submit {
     padding: 10px 20px;
     background-color: #8800ff;
@@ -265,14 +259,13 @@ footer {
     box-sizing: border-box;
     border: none;
     background-color: rgba(255,255, 255, 0.7); 
-    
     padding: 20px;
     width: 700px;
-   
+    height: 100%;
 }
     
  .inquiry h3 {
-     color: #ffffff;
+    color: #ffffff;
     background-color: #1dbbfe;
     padding:  15px 30px;
  }
