@@ -163,13 +163,7 @@ footer {
     float: left;
 }
 
-.contents-wrapper a {
-    padding: 13px 40px;
-    background-color: #ffffff;
-    opacity: 0.5
-    color: #53ff95;
-  
-}
+
 
 .contents-wrapper a:hover {
     background-color: #a7fbff;
