@@ -142,11 +142,6 @@ footer {
     text-decoration: underline;
 }
 
-.contents li {
-    padding: 13px 0px;
-}
-
-
 .contents-wrapper {
     height: 1000px;
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/2515908_m.jpg?raw=true");
@@ -159,16 +154,8 @@ footer {
     padding-top: 50px;
 }
 
-.contents-wrapper li {
-    float: left;
-}
 
 
-
-.contents-wrapper a:hover {
-    background-color: #a7fbff;
-    
-}
 
 .contents-wrapper img {
     height: 150px;
