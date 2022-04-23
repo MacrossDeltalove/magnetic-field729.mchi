@@ -270,3 +270,9 @@ footer {
     width: 700px;
    
 }
+    
+ .inquiry h3 {
+     color: #ffffff;
+    background-color: #1dbbfe;
+    padding:  15px 30px;
+ }
