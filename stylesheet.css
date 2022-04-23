@@ -176,6 +176,11 @@ footer {
     
 }
 
+.contents-wrapper img {
+    height: 150px;
+    width: 250px;
+    float: left;
+}
 
 
 
