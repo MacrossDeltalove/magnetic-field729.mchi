@@ -89,7 +89,7 @@ header img {
     background-size: cover;
     background-image: url("top-wrapper-image-twinkle_00028.jpg");
     z-index: 1;
-   
+    position: fixed;
 }
 
 .message h3 {
@@ -146,7 +146,8 @@ footer {
     height: 1000px;
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/2515908_m.jpg?raw=true");
     background-size: cover;
-    width: 100%;　 
+    width: 100%;
+    position: fixed;
 }
 
 .contents-wrapper h3 {
