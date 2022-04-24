@@ -98,6 +98,20 @@ header img {
     
 }
 
+.pickup img {
+    height: 200px;
+    width: 350px;
+    float: left;
+    margin-right: 30px;
+    position: relative;
+}
+
+.pickup p {
+    position: absolute;
+    top: 200px;
+    right: 300px;
+}
+
 
 
 .advertising {
