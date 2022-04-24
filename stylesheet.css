@@ -99,13 +99,13 @@ header img {
 .message {
     width: 850px;
     height: 100%;
-    float: left;
+    
 }
 
 .pickup img {
     height: 200px;
     width: 350px;
-    float: left;
+    display: inline-block;
     margin-right: 30px;
     
 }
@@ -226,7 +226,7 @@ footer {
     padding:5px 30px;
     width: 900px;
     height: 100%;
-    float: left;
+    
 }
 
 .session-contents h3 {
