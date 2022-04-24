@@ -85,11 +85,11 @@ header img {
 
 
 .top-wrapper {
-    height: 300px;
+    height: 600px;
     background-size: cover;
     background-image: url("top-wrapper-image-twinkle_00028.jpg");
     z-index: 1;
-    position: fixed;
+    
 }
 
 .message h3 {
