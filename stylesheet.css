@@ -101,7 +101,9 @@ header img {
 
 .pickup p {
     position: absolute;
-    top: 
+    top: 200px;
+    right: 300px;
+}
     
 .message-left {
     padding: 40px 0px 0px 0px;
