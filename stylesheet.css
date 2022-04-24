@@ -95,8 +95,13 @@ header img {
     width: 350px;
     float: left;
     margin-right: 30px;
+    position: relative;
 }
 
+.pickup p {
+    position: absolute;
+    
+    
 .message-left {
     padding: 40px 0px 0px 0px;
     font-size: 20px;
@@ -106,7 +111,7 @@ header img {
 .message-right {
     padding: 40px 0px 0px 0px;
     font-size: 20px;
-    float: right;
+  
 }
 
 .advertising {
