@@ -97,10 +97,16 @@ header img {
     margin-right: 30px;
 }
 
-.message h3 {
+.message-left {
     padding: 40px 0px 0px 0px;
     font-size: 20px;
-    
+    float: left;
+}
+
+.message-right {
+    padding: 40px 0px 0px 0px;
+    font-size: 20px;
+    float: right;
 }
 
 .advertising {
