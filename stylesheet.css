@@ -87,10 +87,10 @@ header img {
     background-image: url("top-wrapper-image-twinkle_00028.jpg");
     z-index: 1;
     width: 100%;
-    
+    float: left;
 }
 
-.top img {
+.pickup img {
     height: 200px;
     width: 350px;
     float: left;
