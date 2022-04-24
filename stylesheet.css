@@ -110,6 +110,11 @@ header img {
     margin-left: 10px;
 }
 
+.demon {
+    height: 300px;
+    width: 300px;
+}
+
 footer {
     height: 100px;
     background-color: #CA6FFD;
