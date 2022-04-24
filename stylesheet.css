@@ -153,35 +153,13 @@ footer {
     text-decoration: underline;
 }
 
-.contents-wrapper {
-    height: 1000px;
-    background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/top-wrapper-image-twinkle_00028.jpg?raw=true");
-    background-size: cover;
-    width: 100%;
-    
-}
-
-.contents-wrapper h3 {
-    color: #a7fbff;
-    padding-top: 50px;
-}
-
-
-
-
-.contents-wrapper img {
-    height: 150px;
-    width: 250px;
-    float: left;
-}
-
 
 
 
 .article {
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/top-wrapper-image-twinkle_00028.jpg?raw=true");
     background-size: cover;
-    display: inline-block;
+    height: 1900px;
 }
 
 .article-list {
