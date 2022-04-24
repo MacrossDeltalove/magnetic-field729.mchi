@@ -100,6 +100,7 @@ header img {
 .message {
     width: 850px;
     height: 100%;
+    float: left;
 }
 
 .pickup img {
