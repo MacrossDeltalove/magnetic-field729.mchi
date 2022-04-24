@@ -89,6 +89,13 @@ header img {
     
 }
 
+.top img {
+    height: 200px;
+    width: 350px;
+    float: left;
+    margin-right: 30px;
+}
+
 .message h3 {
     padding: 40px 0px 0px 0px;
     font-size: 20px;
