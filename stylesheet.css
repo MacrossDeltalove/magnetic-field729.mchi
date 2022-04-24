@@ -246,13 +246,17 @@ footer {
     color: #ffffff;
     background-color: #6bffd5;
     padding: 10px;
-    margin-top: 50px;
+    margin-top: 70px;
 }
 
 .session-contents h5 {
     color: #ffffff;
     background-color: #69DFFF;
     padding: 5px;
+}
+
+.mebius {
+    letter-spacing: 0.1em;
 }
 
 .btn submit {
