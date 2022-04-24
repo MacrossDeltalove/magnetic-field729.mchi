@@ -97,12 +97,17 @@ header img {
     
 }
 
+.message {
+    width: 850px;
+    height: 100%;
+}
+
 .pickup img {
     height: 200px;
     width: 350px;
     float: left;
     margin-right: 30px;
-    position: relative;
+    
 }
 
 
@@ -110,7 +115,7 @@ header img {
 
 .advertising {
     float: right;
-    
+    margin-top: 0px;
     display: block;
     padding-bottom: 30px;
     background-color: rgba(255, 255, 255, 0.8);
