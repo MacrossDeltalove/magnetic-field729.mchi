@@ -108,13 +108,13 @@ header img {
 .message-left {
     padding: 40px 0px 0px 0px;
     font-size: 20px;
-    float: left;
+    
 }
 
 .message-right {
     padding: 40px 0px 0px 0px;
     font-size: 20px;
-  
+  　margin-left: 100px;
 }
 
 .advertising {
