@@ -77,26 +77,17 @@ header img {
     display: block;
     transition: 0.7s;
    
-    }
-
-
-
-.top-wrapper　{
-    height: 100%;
-    background-size: cover;
-    background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/top-wrapper-image-twinkle_00028.jpg?raw=true");
-    width: 100%;
-
 }
 
 
-.top-wrapper h3 {
-    padding: 40px 0px 0px 0px;
+.message h3 {
+
     font-size: 20px;
     
 }
 
 .message {
+    margin-top: 40px;
     width: 850px;
     height: 100%;
     
@@ -256,7 +247,7 @@ footer {
 }
 
 .mebius {
-    letter-spacing: 0.1em;
+    letter-spacing: 0.05em;
 }
 
 .btn submit {
