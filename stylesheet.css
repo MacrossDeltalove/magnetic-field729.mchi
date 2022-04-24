@@ -197,6 +197,12 @@ footer {
 .article-list li {
     margin: 10px 10px;
 }
+
+.article-list h3 {
+   color: #ffffff;
+    background-color: #1dbbfe;
+    padding:  15px 30px;
+}
     
 .article-list img {
     opacity: 3.0;
@@ -248,7 +254,7 @@ footer {
 }
 
 .mebius {
-    letter-spacing: 0.05em;
+    letter-spacing: 0.08em;
 }
 
 .btn submit {
@@ -259,17 +265,3 @@ footer {
     box-shadow: 0 0 3px 0 #5500a0;
 }
 
-.inquiry {
-    box-sizing: border-box;
-    border: none;
-    background-color: rgba(255,255, 255, 0.7); 
-    padding: 20px;
-    width: 700px;
-    height: 100%;
-}
-    
- .inquiry h3 {
-    color: #ffffff;
-    background-color: #1dbbfe;
-    padding:  15px 30px;
- }
