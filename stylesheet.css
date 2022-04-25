@@ -96,6 +96,7 @@ header img {
     width: 850px;
     height: 100%;
     vertical-align: top;
+    display: flex;
     
 }
 
