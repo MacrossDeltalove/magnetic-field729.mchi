@@ -172,8 +172,8 @@ footer {
     background-color: rgba(255,255, 255, 0.7); 
  
     padding: 20px;
-    width: 700px;
-   
+    width: 650px;
+    margin: 0px;
 }
 
 .article-list li {
