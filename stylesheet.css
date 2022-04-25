@@ -95,6 +95,7 @@ header img {
     padding-top: 40px;
     width: 850px;
     height: 100%;
+    vertical-align: top;
     
 }
 
@@ -118,6 +119,7 @@ header img {
     width: 400px;
     height: 100%;
     text-align: center;
+    vertical-align: top;
 }
 
 .advertising img {
