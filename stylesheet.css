@@ -90,7 +90,7 @@ header img {
     padding-top: 40px;
     width: 650px;
     height: 100%;
-    vertical-align: top;
+   
     
     
 }
@@ -113,7 +113,6 @@ header img {
     padding-bottom: 30px;
     background-color: rgba(255, 255, 255, 0.8);
     width: 400px;
-    height: 100%;
     text-align: center;
     
 }
@@ -219,7 +218,7 @@ footer {
 .session-contents img {
     height: 400px;
     width: 500px;
-    padding-left: 160px;
+    padding-left:100px;
 }
 
 .session-contents h4 {
