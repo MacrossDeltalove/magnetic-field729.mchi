@@ -95,10 +95,15 @@ header img {
     
 }
 
+.pickup ul {
+    display: flex;
+}
+     
+
 .pickup img {
     height: 200px;
     width: 350px;
-    display: flex;
+
     margin-right: 30px;
     
 }
