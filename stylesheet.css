@@ -82,7 +82,9 @@ header img {
 .article {
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/top-wrapper-image-twinkle_00028.jpg?raw=true");
     background-size: cover;
-    
+    width: 1500px;
+    height: 1365px;
+    position: fixed;
 }
 
 
