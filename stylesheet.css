@@ -234,8 +234,12 @@ footer {
     padding: 5px;
 }
 
+.earth {
+    margin-bottom: 0px;
+}
+
 .mebius {
-    letter-spacing: 0.07em;
+    letter-spacing: 0.1em;
 }
 
 .submit-button {
