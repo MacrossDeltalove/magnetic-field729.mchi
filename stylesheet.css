@@ -88,7 +88,7 @@ header img {
 
 .message {
     padding-top: 40px;
-    width: 650px;
+    width: 700px;
     height: 100%;
    
     
@@ -98,7 +98,7 @@ header img {
 .pickup img {
     height: 200px;
     width: 350px;
-    float: left;
+    display: flex;
     margin-right: 30px;
     
 }
