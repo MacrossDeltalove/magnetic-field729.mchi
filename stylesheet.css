@@ -98,7 +98,7 @@ header img {
 .pickup img {
     height: 200px;
     width: 350px;
-    display: inline-block;
+    display: flex;
     margin-right: 30px;
     
 }
@@ -246,9 +246,10 @@ footer {
 
 .submit-button {
     padding: 10px 20px;
-    background-color: #8800ff;
+   
     color: #ffffff;
     border-radius: 2px;
     box-shadow: 0 0 3px 0 #5500a0;
+    width: 100px;
 }
 
