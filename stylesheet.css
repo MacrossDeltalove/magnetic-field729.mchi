@@ -172,7 +172,7 @@ footer {
     background-color: rgba(255,255, 255, 0.7); 
     height: 100%;
     padding: 20px;
-    width: 650px;
+    width: 700px;
     margin: 0px;
 }
 
@@ -204,7 +204,7 @@ footer {
     box-sizing: border-box;
     border: none;
     padding:5px 30px;
-    width: 900px;
+    width: 700px;
     height: 100%;
     
 }
@@ -212,7 +212,7 @@ footer {
 .session-contents h3 {
     color: #ffffff;
     background-color: #1dbbfe;
-    padding:  15px 30px;
+    padding:  10px 30px;
     
 }
     
