@@ -98,7 +98,7 @@ header img {
 .pickup img {
     height: 200px;
     width: 350px;
-    display: flex;
+    float: left;
     margin-right: 30px;
     
 }
