@@ -100,8 +100,8 @@ header img {
 
 .message {
     position: fixed;
-    top: 60px;
-    left; 0px;
+    top: 90px;
+    left: 0px;
     padding-top: 40px;
     width: 700px;
     height: 100%;
@@ -134,9 +134,9 @@ header img {
 
 .advertising {
     position: fixed;
-    top: 100px;
+    top: 130px;
+    right: 90px;
     
-    float: right;
     margin: 0px;
     display: block;
     padding-bottom: 30px;
