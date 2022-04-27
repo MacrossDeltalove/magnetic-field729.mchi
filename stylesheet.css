@@ -110,7 +110,7 @@ header img {
 
 .pickup {
     margin-top: 50px;
-    
+    padding-bottom: 40px;
     background-color: rgba(255, 255, 255, 0.7);
     box-sizing: border-box;
     border: none;
@@ -138,11 +138,15 @@ header img {
     vertical-align: bottom;
     margin:0px 30px 5px 0px;
     padding-bottom: 0px;
+    position: relative;
 }
     
 .pickup p {
-    float: left;
+    position: absolute;
+    top: 205px;
+    left: 0px;
     }
+    
 
 .update-news {
     background-color: rgba(255, 255, 255, 0.7);
