@@ -91,6 +91,10 @@ header img {
     background-size: cover;
     background-attachment: fixed;
     width: 100%;
+    postion: absolute;
+    top: 70px;
+    left: 0px;
+    
 }
 
 
