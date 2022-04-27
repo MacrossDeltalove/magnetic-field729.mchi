@@ -116,6 +116,7 @@ header img {
     border: none;
     width: 780px;
     height: 300px;
+    float: left
     }
     
 .pickup h3    
@@ -582,10 +583,7 @@ footer {
     border-box: none;
     width: 100px;
     margin: 5px 0px 0px 30px;
-}
+ }
 
-.submit-button:action {
-    background-color: #5b9aff;
-}
 
 }
