@@ -124,7 +124,7 @@ header img {
     }
     
 .pickup h3 {
-    padding: 10px 0px 10px 30px;
+    padding: 20px 0px 10px 30px;
     }
     
 .pickup-img {
@@ -435,6 +435,10 @@ header img {
     background-color: rgba(255, 255, 255, 0.7);
     width: 800px;
     height: 100%;
+    }
+
+.update h3 {
+    padding: 20px 0px 0px 50px;
     }
     
 .update-news a {
