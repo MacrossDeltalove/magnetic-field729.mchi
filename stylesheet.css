@@ -118,16 +118,15 @@ header img {
     border: none;
     width: 780px;
     height: 300px;
-    float: left
+    float: left;
+    z-index: 1;
+        
     }
     
-.pickup h3    
-    
-.pickup ul {
-    display: flex;
-    margin-bottom: 0px;
-    
-}
+.pickup h3 {
+    padding-left: 30px;
+    }
+
      
 .pickup li {
     padding-left: 0px;
@@ -141,14 +140,10 @@ header img {
     vertical-align: bottom;
     margin:0px 30px 5px 0px;
     padding-bottom: 0px;
-    position: relative;
+
 }
     
-.pickup p {
-    position: absolute;
-    top: 205px;
-    left: 0px;
-    }
+
     
 
 .update-news {
@@ -159,7 +154,7 @@ header img {
     height: 100%;
     padding-bottom: 20px;
     margin-top: 90px;
-    margin-bottom: 90px;
+    margin-bottom: 0px;
     }
 
 
