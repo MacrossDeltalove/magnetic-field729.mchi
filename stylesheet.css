@@ -91,7 +91,7 @@ header img {
     background-size: cover;
     background-attachment: fixed;
     width: 100%;
-    postion: absolute;
+    postion: fixed;
     top: 70px;
     left: 0px;
     
@@ -99,7 +99,7 @@ header img {
 
 
 .message {
-    position: absolute;
+    position: fixed;
     top: 60px;
     left; 0px;
     padding-top: 40px;
@@ -133,9 +133,9 @@ header img {
 
 
 .advertising {
-    position: absolute;
-    top: 60px;
-    right: 0px;
+    position: fixed;
+    top: 100px;
+    
     float: right;
     margin: 0px;
     display: block;
