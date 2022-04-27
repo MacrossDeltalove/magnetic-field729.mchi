@@ -124,7 +124,11 @@ header img {
     }
     
 .pickup h3 {
-    padding-left: 30px;
+    padding: 10px 0px 10px 30px;
+    }
+    
+.pickup ul {
+    display: flex;
     }
 
      
@@ -140,7 +144,7 @@ header img {
     vertical-align: bottom;
     margin:0px 30px 5px 0px;
     padding-bottom: 0px;
-    float: left;
+    
 }
     
 
