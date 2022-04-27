@@ -103,7 +103,7 @@ header img {
 .pickup img {
     height: 200px;
     width: 350px;
-
+    vertical-align: bottom;
     margin-right: 30px;
     
 }
@@ -120,6 +120,7 @@ header img {
     width: 400px;
     text-align: center;
     background-attachment: fixed;
+    overflow: hidden;
     
 }
 
