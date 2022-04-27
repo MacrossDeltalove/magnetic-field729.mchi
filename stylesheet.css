@@ -44,6 +44,7 @@ header img {
    font-weight: normal;
    float: right;
    z-index: 10;
+    padding-right: 30px;
 }
 
 .header-right  li {
@@ -51,6 +52,7 @@ header img {
     display: inline-block;
     position: relative;
     width: 200px;
+    margin-right: none;
 }
     
 .header-right a {
