@@ -421,9 +421,7 @@ header img {
 }
 
 footer {
-    position: fixed;
-    bottom: 0px;
-    left: 0px;
+    
     height: 100px;
     background-color: #CA6FFD;
     color: #ffffff;
