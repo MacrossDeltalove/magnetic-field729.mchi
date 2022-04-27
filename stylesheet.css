@@ -135,7 +135,7 @@ header img {
     vertical-align: bottom;
     margin:0px 30px 5px 0px;
     padding-bottom: 0px;
-    float: left;
+    display: flex;
     
 }
     
@@ -433,7 +433,13 @@ header img {
     display: block;
     }
     
-        
+ .rest {
+     background- color: rgba(255, 255, 255, 0):
+     box-sizing: border-box;
+     border: none;
+     height: 50px;
+     width: 800px;
+    }
 
 
 .advertising {
