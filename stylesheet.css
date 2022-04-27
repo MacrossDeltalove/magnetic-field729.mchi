@@ -130,7 +130,7 @@ header img {
 
 
 .advertising {
-    
+    float: right;
     margin: 0px;
     display: block;
     padding-bottom: 30px;
