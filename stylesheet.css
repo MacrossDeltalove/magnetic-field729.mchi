@@ -145,24 +145,16 @@ header img {
 }
 
 footer {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
     height: 100px;
     background-color: #CA6FFD;
-
+    color: #ffffff;
     padding: 13px 30px;
     text-align: center;
 }
 
-
-
-.footer-list {
-    text-align: center;
-}
-
-.footer-list p{
-    text-align: center;
-   
-    color: #ffffff;
-}
 
 .footer-list a {
     color: #ffffff;
