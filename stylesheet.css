@@ -97,15 +97,21 @@ header img {
 
 .pickup ul {
     display: flex;
+    margin-bottom: 0px;
 }
      
+.piclup li {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
 
 .pickup img {
     height: 200px;
     width: 350px;
     vertical-align: bottom;
     margin-right: 30px;
-    
+    margin-bottom: 0px;
+    padding-bottom: 0px;
 }
 
 
