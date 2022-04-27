@@ -91,9 +91,7 @@ header img {
     background-size: cover;
     background-attachment: fixed;
     width: 100%;
-    postion: fixed;
-    top: 70px;
-    left: 0px;
+    
     
 }
 
@@ -101,7 +99,7 @@ header img {
 .message {
     position: fixed;
     top: 90px;
-    left: 0px;
+    left: 110px;
     padding-top: 40px;
     width: 700px;
     height: 100%;
@@ -135,7 +133,7 @@ header img {
 .advertising {
     position: fixed;
     top: 130px;
-    right: 90px;
+    right: 110px;
     
     margin: 0px;
     display: block;
@@ -389,10 +387,6 @@ header img {
     margin-bottom: 0px;
 }
      
-.piclup li {
-    margin-bottom: 0px;
-    padding-bottom: 0px;
-}
 
 .pickup img {
     height: 200px;
