@@ -91,7 +91,7 @@ header img {
     background-size: cover;
     background-attachment: fixed;
     width: 100%;
-    marin: 100px 0px 0px 0px;
+    margin-top: 110px;
     
     
 }
@@ -472,7 +472,7 @@ footer {
     height: 100%;
     padding: 20px;
     width: 700px;
-    margin: 0px;
+    margin-top: 110px;
     background-attachment: fixed;
 }
 
