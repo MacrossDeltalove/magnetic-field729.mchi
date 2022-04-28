@@ -44,12 +44,12 @@ header img {
    font-weight: normal;
    float: right;
    z-index: 10;
-    padding-right: 30px;
+    
 }
 
 .header-right  li {
     float: left;
-    
+    margin-right: 40px;
     position: relative;
     
     
@@ -79,6 +79,7 @@ header img {
 
 .header-right li li a {
     border-top: 1px solid #ffffff;
+    width: 260px;
 }
 
 .header-right li:hover ul {
