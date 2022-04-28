@@ -134,13 +134,13 @@ header img {
     }
     
 .pickup h3 {
-    padding: 20px 0px 10px 30px;
+    padding: 0px 0px 10px 30px;
     }
     
 
 .pickup img {
-    height: 200px;
-    width: 350px;
+    height: 300px;
+    width: 450px;
     vertical-align: bottom;
     margin:0px 50px 50px 0px;
     padding-bottom: 0px;
@@ -151,6 +151,7 @@ header img {
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
     transform: translateY(-10px);
     transition-duration: 0.5s;
+    z-index: 0px;
     }
     
     
