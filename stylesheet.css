@@ -131,7 +131,7 @@ header img {
     }
     
 .pickup-img {
-    display: inline-block;
+    display: flex;
     }
 
 .pickup img {
