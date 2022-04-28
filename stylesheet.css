@@ -621,7 +621,7 @@ footer {
     border: none;
     width: 100px;
     margin: 5px 0px 0px 30px;
-    box-shadow
+    box-shadow: 5px 5px 5px rgba(255, 255, 255, 0.5);
  }
 
 
