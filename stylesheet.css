@@ -27,7 +27,7 @@ header {
     height: 60px;
     border-bottom: 2px solid #a7fbff;
     margin-bottom: 20px;
-    padding: 5px 30px 30px 30px;
+    padding: 5px 0px 30px 30px;
     background-color: #ffffff;
   
     
@@ -128,7 +128,7 @@ header img {
     }
     
 .pickup-img {
-    display: flex;
+    display: inline-block;
     }
 
 .pickup img {
@@ -140,7 +140,7 @@ header img {
     
 }
     
-
+.update-news {
     
 
 .update-news {
