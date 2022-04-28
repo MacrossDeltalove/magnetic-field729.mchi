@@ -121,7 +121,7 @@ header img {
 }
 
 .pickup {
-    margin-top: 80px;
+    margin: 80px 0px 80px 0px;
     padding: 5px 30px 30px 30px;
     background-color: rgba(255, 255, 255, 0.7);
     box-sizing: border-box;
@@ -135,10 +135,6 @@ header img {
     
 .pickup h3 {
     padding: 0px 0px 10px 30px;
-    }
-
-.pickup-img {
-    float: right;
     }
 
 .pickup img {
@@ -171,8 +167,8 @@ header img {
     width: 780px;
     height: 100%;
     padding-bottom: 20px;
-    margin-top: 90px;
-    margin-bottom: 0px;
+    margin: 90px 0px 90px 0px;
+    
     }
 
  .rest {
