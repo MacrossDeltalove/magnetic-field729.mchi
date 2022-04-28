@@ -94,7 +94,7 @@ header img {
    
 }
 
-.sub a {
+.sub  {
     width: 250px;
     }
 
@@ -195,6 +195,12 @@ header img {
     margin-left: 10px;
 }
 
+.advertising img:hover {
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+    transform: translateY(-10px);
+    transition-duration: 0.5s;
+    }
+    
 .demon {
     height: 300px;
     width: 300px;
