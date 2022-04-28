@@ -59,7 +59,7 @@ header img {
 .header-right a {
     color: #ffffff;
     background-color: #69DFFF;
-    line-height: 40px;
+    line-height: 45px;
     text-align: center;
     padding: 10px 20px 10px 20px;
     width: 200px;
@@ -74,7 +74,7 @@ header img {
     display: none;
     margin: 0px;
     padding: 0px;
-    position: absolute;
+    
 }
 
 
@@ -88,14 +88,14 @@ header img {
 
 .header-right li:hover ul {
     position: absolute;
-    top: 51px;
+    top: 45px;
     display: block;
     transition: 0.7s;
    
 }
 
 .sub  {
-    width: 250px;
+    width: 20px;
     }
 
 .article {
@@ -122,7 +122,7 @@ header img {
 
 .pickup {
     margin-top: 80px;
-    padding: 30px;
+    padding: 5px 30px 30px 30px;
     background-color: rgba(255, 255, 255, 0.7);
     box-sizing: border-box;
     border: none;
