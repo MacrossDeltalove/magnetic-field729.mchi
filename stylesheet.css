@@ -136,7 +136,10 @@ header img {
 .pickup h3 {
     padding: 0px 0px 10px 30px;
     }
-    
+
+.pickup-img {
+    float: right;
+    }
 
 .pickup img {
     height: 300px;
@@ -144,6 +147,7 @@ header img {
     vertical-align: bottom;
     margin:0px 50px 50px 0px;
     padding-bottom: 0px;
+    
     
 }
     
