@@ -618,9 +618,10 @@ footer {
     background-color: #2578ff;
     color: #ffffff;
     border-radius: 4px;
-    border-box: none;
+    border: none;
     width: 100px;
     margin: 5px 0px 0px 30px;
+    box-shadow
  }
 
 
