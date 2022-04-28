@@ -49,18 +49,18 @@ header img {
 
 .header-right  li {
     float: left;
-    display: inline-block;
+    color: #ffffff;
+    background-color: #69DFFF;
     position: relative;
     width: 200px;
-    margin-right: none;
+    text-align: center;
 }
     
 .header-right a {
-    color: #ffffff;
-    background-color: #69DFFF;
+    
     display:block;
     line-height: 51px;
-    text-align: center;
+    
 }
 
 .header-right a:hover {
