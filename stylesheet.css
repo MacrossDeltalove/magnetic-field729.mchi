@@ -132,10 +132,7 @@ header img {
     z-index: 0;
         
     }
-    
-.pickup h3 {
-    padding: 0px 0px 0px 30px;
-    }
+
 
 .pickup img {
     height: 300px;
@@ -157,9 +154,6 @@ header img {
    margin-bottom: 80px;
     }
     
-.update-news h3 {
-    padding: 20px 0px 10px 30px;
-    }
     
 
 .update-news {
@@ -168,7 +162,7 @@ header img {
     border: none;
     width: 780px;
     height: 100%;
-    padding-bottom: 20px;
+    padding-bottom: 50px;
     margin: 90px 0px 90px 0px;
     
     }
@@ -330,7 +324,7 @@ footer {
 
 .submit-button:action {
     background-color: #5b9aff;
-}
+ }
 }    
   
 
