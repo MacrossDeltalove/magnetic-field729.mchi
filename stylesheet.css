@@ -134,16 +134,15 @@ header img {
     }
     
 .pickup h3 {
-    padding: 0px 0px 10px 30px;
+    padding: 0px 0px 0px 30px;
     }
 
 .pickup img {
     height: 300px;
     width: 450px;
     vertical-align: bottom;
-    margin:0px 50px 50px 0px;
+    margin:0px 50px 30px 0px;
     padding-bottom: 0px;
-    
     
 }
     
@@ -154,6 +153,9 @@ header img {
     z-index: 0px;
     }
     
+.pickup-img {
+   margin-bottom: 50px;
+    }
     
 .update-news h3 {
     padding: 20px 0px 10px 30px;
