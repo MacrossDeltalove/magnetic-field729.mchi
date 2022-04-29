@@ -26,7 +26,7 @@ connection.connect((err) => {
   console.log('success');
 });
 
-//風のエレメントの美徳ページ//
+
 app.get('/wind', (req, res) => {
   res.render('wind.html');
 });
