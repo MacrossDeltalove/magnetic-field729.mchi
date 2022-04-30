@@ -2,7 +2,7 @@
 
 body {
     margin: 0;
-    width: 1400px;
+    width: 2000px;
 }
 
 li {
@@ -111,10 +111,10 @@ header img {
 
 
 .message {
-    margin: 50px 50px 0px 50px;
+    margin: 50px 50px 80px 50px;
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/face-1312945_1920.jpg?raw=true");
     padding-top: 40px;
-    width: 1000px;
+    width: 1700px;
    
     background-size: cover;
      
@@ -122,12 +122,12 @@ header img {
 }
 
 .pickup {
-    margin: 80px 0px 80px 0px;
+    margin: 0px 0px 80px 0px;
     padding: 5px 50px 1px 50px;
     background-color: rgba(255, 255, 255, 0.7);
     box-sizing: border-box;
     border: none;
-    width: 780px;
+    width: 680px;
     height: 100%;
     
     z-index: 0;
