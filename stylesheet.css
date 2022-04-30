@@ -35,15 +35,15 @@ header {
 }
 
 header img {
-    height: 90px;
-    width: 600px;
+    height: 144px;
+    width: 717px;
 
     
 }
 
 .header-right {
    font-weight: normal;
-   overflow: hidden;
+
    z-index: 10;
 
     
