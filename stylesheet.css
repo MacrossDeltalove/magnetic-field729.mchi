@@ -106,7 +106,7 @@ header img {
     background-attachment: fixed;
     width: 1490px;
     margin-top: 110px;
-    margin-right: 0px;
+
     overflow: hidden;
     
 }
@@ -146,9 +146,9 @@ header img {
     height: 300px;
     width: 450px;
     vertical-align: bottom;
-    margin:0px 50px 0px 0px;
+    margin:0px 50px 0px 60px;
     padding-bottom: 0px;
-    padding-left: 50px;
+    
 }
     
 .pickup img:hover {
@@ -248,7 +248,7 @@ footer {
     height: 100%;
     padding: 20px;
     width: 700px;
-    margin: 50px 50px 50px 50px;
+    margin: 50px 50px 50px 100px;
     
 }
 
@@ -282,7 +282,7 @@ footer {
     padding:5px 30px;
     width: 700px;
     height: 100%;
-    
+    margin: 50px 50px 50px 100px;
 }
 
 .session-contents h3 {
