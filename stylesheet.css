@@ -2,7 +2,7 @@
 
 body {
     margin: 0;
-    width: 964.800px;
+    width: 1200px;
 }
 
 li {
@@ -14,7 +14,7 @@ a {
 }
 
 .container {
-    width: 964.800px;
+    width: 1200px;
     margin: 0 auto;
  
 }
@@ -23,7 +23,7 @@ header {
     position: fixed;
     top: 0px;
     left: 0px;
-    width: 964.800px;
+    width: 1200px;
     height: 60px;
     border-bottom: 2px solid #a7fbff;
     margin-bottom: 20px;
@@ -35,15 +35,15 @@ header {
 }
 
 header img {
-    height: 50px;
-    width: 200px;
+    height: 100px;
+    width: 300px;
 
     
 }
 
 .header-right {
    font-weight: normal;
-  
+   float: right;
    z-index: 10;
     
    margin-right: 100px;
@@ -104,7 +104,7 @@ header img {
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/top-wrapper-image-twinkle_00028.jpg?raw=true");
     background-size: cover;
     background-attachment: fixed;
-    width: 964.800px;
+    width: 1200px;
     margin-top: 110px;
     margin-right: 0px;
     overflow: hidden;
@@ -116,7 +116,7 @@ header img {
     margin: 50px 50px 80px 50px;
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/face-1312945_1920.jpg?raw=true");
 
-    width: 860px;
+    width: 1000px;
    
     background-size: cover;
      
@@ -134,7 +134,7 @@ header img {
     background-color: rgba(255, 255, 255, 0.7);
     box-sizing: border-box;
     border: none;
-    width: 450px;
+    width: 680px;
     height: 100%;
     
     z-index: 0;
@@ -143,8 +143,8 @@ header img {
 
 
 .pickup img {
-    height: 100px;
-    width: 250px;
+    height: 200px;
+    width: 350px;
     vertical-align: bottom;
     margin:0px 50px 0px 0px;
     padding-bottom: 0px;
@@ -168,7 +168,7 @@ header img {
     background-color: rgba(255, 255, 255, 0.7);
     box-sizing: border-box;
     border: none;
-    width: 450px;
+    width: 680px;
     height: 100%;
     padding: 5px 50px 50px 50px;
     margin: 90px 25px 90px 50px;
@@ -189,7 +189,7 @@ header img {
     
     padding-bottom: 30px;
     background-color: rgba(255, 255, 255, 0.8);
-    width: 310px;
+    width: 400px;
     text-align: center;
 
 
@@ -223,7 +223,7 @@ footer {
     color: #ffffff;
     padding: 13px 30px;
     text-align: center;
-    width: 964.800px;
+    width: 1200px;
 }
 
 
