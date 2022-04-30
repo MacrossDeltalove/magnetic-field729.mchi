@@ -24,26 +24,27 @@ header {
     top: 0px;
     left: 0px;
     width: 1490px;
-    height: 60px;
+    height: 100px;
     border-bottom: 2px solid #a7fbff;
     margin-bottom: 20px;
     padding: 10px 30px 10px 30px;
     background-color: #ffffff;
-    float: left;
+
   
     
 }
 
 header img {
-    height: 50px;
-    width: 300px;
+    height: 80px;
+    width: 400px;
+    text-align: center;
 
     
 }
 
 .header-right {
    font-weight: normal;
-
+   overflow: hidden;
    z-index: 10;
 
     
