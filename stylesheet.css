@@ -111,9 +111,10 @@ header img {
 
 
 .message {
+    margin: 50px 50px 0px 50px;
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/face-1312945_1920.jpg?raw=true");
     padding-top: 40px;
-    width: 780px;
+    width: 1000px;
    
     background-size: cover;
      
