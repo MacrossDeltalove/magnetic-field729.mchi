@@ -144,6 +144,9 @@ header img {
         
     }
 
+.pickup h3 {
+    font-family: monotype corsiva;
+    }
 
 .pickup img {
     height: 300px;
@@ -176,6 +179,10 @@ header img {
     padding: 5px 50px 50px 50px;
     margin: 90px 50px 90px 100px;
     
+    }
+    
+.update-news h3 {
+    font-family: monotype corsiva;
     }
 
  .rest {
