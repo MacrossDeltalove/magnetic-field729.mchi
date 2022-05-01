@@ -47,7 +47,7 @@ header img {
    font-weight: normal;
    z-index: 10;
    font-family: monotype corsiva;
-   font-size: 30px; 
+   font-size: 25px; 
    margin-top: 0px;
    text-alig: center; 
 }
@@ -93,7 +93,7 @@ header img {
 
 .header-right li:hover ul {
     position: absolute;
-    top: 46px;
+    top: 47px;
     display: block;
     transition: 0.7s;
    
@@ -148,9 +148,9 @@ header img {
         
     }
 
-.pickup h3 {
+.pickup h1 {
     font-family: monotype corsiva;
-    font-size: 50px;
+    
     }
 
 .pickup img {
@@ -186,9 +186,9 @@ header img {
     
     }
     
-.update-news h3 {
+.update-news h1 {
     font-family: monotype corsiva;
-    font-size: 50px;
+    
     }
 
  .rest {
@@ -268,6 +268,10 @@ footer {
     
 }
 
+.article-list h1 {
+    font-family: monotype corsiva;
+    }
+    
 .article-list li {
     margin: 10px 10px;
 }
@@ -276,6 +280,7 @@ footer {
    color: #ffffff;
     background-color: #1dbbfe;
     padding:  15px 30px;
+    font-family: monotype corsiva;
 }
     
 .article-list img {
@@ -305,6 +310,7 @@ footer {
     color: #ffffff;
     background-color: #1dbbfe;
     padding:  10px 30px;
+    font-family: monotype corsiva;
     
 }
     
