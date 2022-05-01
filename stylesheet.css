@@ -47,7 +47,7 @@ header img {
    font-weight: normal;
    z-index: 10;
    font-family: monotype corsiva;
-    
+   font-size: 20px; 
 
     
 }
@@ -63,7 +63,7 @@ header img {
 .header-right a {
     color: #ffffff;
     background-color: #69DFFF;
-    line-height: 45px;
+    line-height: 40px;
     text-align: center;
     padding: 10px 20px 10px 20px;
     width: 200px;
@@ -108,7 +108,7 @@ header img {
     background-size: cover;
     background-attachment: fixed;
     width: 1490px;
-    margin-top: 110px;
+    margin-top: 180px;
 
     overflow: hidden;
     
