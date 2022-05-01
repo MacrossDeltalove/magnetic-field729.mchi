@@ -182,7 +182,7 @@ header img {
     height: 100%;
     padding: 5px 50px 50px 50px;
     margin: 90px 50px 90px 100px;
-    
+    font-family: Yu Mincho;
     
     }
     
@@ -201,7 +201,7 @@ header img {
 
 .advertising {
     float: right;
-    margin: 0px 100px 50px 50px;
+    margin: 0px 100px 25px 50px;
     font-family: Yu Mincho;
     padding-bottom: 30px;
     background-color: rgba(255, 255, 255, 0.8);
@@ -271,6 +271,7 @@ footer {
 
 .article-list h1 {
     font-family: monotype corsiva;
+    margin-left: 30px;
     }
     
 .article-list li {
@@ -281,7 +282,7 @@ footer {
    color: #ffffff;
     background-color: #1dbbfe;
     padding:  15px 30px;
-    font-family: monotype corsiva;
+    font-family: Yu Mincho;
 }
     
 .article-list img {
@@ -312,7 +313,7 @@ footer {
     color: #ffffff;
     background-color: #1dbbfe;
     padding:  10px 30px;
-    font-family: monotype corsiva;
+    
     
 }
     
