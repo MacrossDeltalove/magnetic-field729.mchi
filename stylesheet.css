@@ -49,7 +49,7 @@ header img {
    font-family: monotype corsiva;
    font-size: 25px; 
    margin-top: 0px;
-   text-alig: center; 
+   text-alig: center;
 }
 
 .header-right  li {
@@ -63,7 +63,7 @@ header img {
 .header-right a {
     color: #ffffff;
     background-color: #69DFFF;
-    line-height: 40px;
+    line-height: 47px;
     text-align: center;
     padding: 10px 20px 10px 20px;
     width: 200px;
@@ -93,7 +93,7 @@ header img {
 
 .header-right li:hover ul {
     position: absolute;
-    top: 46px;
+    top: 47px;
     display: block;
     transition: 0.7s;
    
