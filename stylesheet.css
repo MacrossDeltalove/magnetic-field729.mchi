@@ -6,7 +6,7 @@
 
 body {
     margin: 0;
-    max-width: 1600px;
+    max-width: 1400px;
     width: 100%;
 }
 
@@ -19,7 +19,7 @@ a {
 }
 
 .container {
-    width: 1600px;
+    width: 1300px;
     margin: 0 auto;
  
 }
@@ -206,7 +206,7 @@ header img {
 
 .advertising {
     float: right;
-    margin: 0px 100px 50px 25px;
+    margin: 0px 200px 50px 25px;
     font-family: Yu Mincho;
     padding-bottom: 30px;
     background-color: rgba(255, 255, 255, 0.8);
@@ -244,7 +244,6 @@ footer {
     color: #ffffff;
     padding: 13px 30px;
     text-align: center;
-    max-width: 1600px;
     width: 100%
 }
 
@@ -610,7 +609,7 @@ footer {
     color: #ffffff;
     padding: 13px 30px;
     text-align: center;
-    width: 1400px;
+    width: 100%;
 }
 
 
