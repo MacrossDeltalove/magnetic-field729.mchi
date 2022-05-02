@@ -2,7 +2,7 @@
 
 body {
     margin: 0;
-    width: 1490px;
+    width: 1400px;
 }
 
 li {
@@ -14,7 +14,7 @@ a {
 }
 
 .container {
-    width: 1490px;
+    width: 1400px;
     margin: 0 auto;
  
 }
@@ -238,7 +238,7 @@ footer {
     color: #ffffff;
     padding: 13px 30px;
     text-align: center;
-    width: 1500px;
+    width: 1400px;
 }
 
 
@@ -360,5 +360,6 @@ footer {
 }    
   
 
+@media screen and (min-width: 960px) {
 
 
