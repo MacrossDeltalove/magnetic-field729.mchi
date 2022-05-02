@@ -6,7 +6,7 @@
 
 body {
     margin: 0;
-    max-width: 1400px;
+    max-width: 1800px;
     width: 100%;
 }
 
@@ -19,7 +19,7 @@ a {
 }
 
 .container {
-    width: 1400px;
+    width: 1800px;
     margin: 0 auto;
  
 }
@@ -30,7 +30,7 @@ header {
     left: 0px;
     width: 100%;
     height: 160px;
-    
+    margin-bottom: 0px;
     padding: 0px 30px 5px 30px;
     background-color: #ffffff;
     text-align: center;
@@ -113,7 +113,7 @@ header img {
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/top-wrapper-image-twinkle_00028.jpg?raw=true");
     background-size: cover;
     background-attachment: fixed;
-    max-width: 1490px;
+    max-width: 1800px;
     width: 100%;
     margin-top: 180px;
 
@@ -244,7 +244,7 @@ footer {
     color: #ffffff;
     padding: 13px 30px;
     text-align: center;
-    max-width: 1400px;
+    max-width: 1800px;
     width: 100%
 }
 
