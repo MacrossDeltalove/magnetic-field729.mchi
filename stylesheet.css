@@ -113,7 +113,7 @@ header img {
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/top-wrapper-image-twinkle_00028.jpg?raw=true");
     background-size: cover;
     background-attachment: fixed;
-    max-width: 1450px;
+   
     width: 100%;
     margin-top: 160px;
 
@@ -570,7 +570,7 @@ header img {
 
 .advertising {
     float: right;
-    margin: 0px 100px 50px 25px;
+    margin: 0px 100px 50px 2px;
     font-family: Yu Mincho;
     padding-bottom: 30px;
     background-color: rgba(255, 255, 255, 0.8);
