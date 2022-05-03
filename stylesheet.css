@@ -397,10 +397,12 @@ footer {
 
 @media screen and (max-width: 499px) {
    body {
+       max-width: 499px;
        width: 100%;
     }
     
    container {
+       max-width: 499px;
        width: 100%
     }
     
@@ -416,6 +418,7 @@ footer {
         position: fixed;
         top: 0px;
         left: 0px;
+        max-width: 499px;
         width: 100%;
         margin-bottom: 0px;
         padding: 0px 30px 5px 30px;
@@ -425,7 +428,8 @@ footer {
     }
     
      .header-icon img {
-        width: 50%;
+        max-width:499px;
+        width: 100%;
         display: inline-block;
         margin-bottm: 0px;
     }
@@ -451,7 +455,7 @@ footer {
     }
     
    .menu-icon-list-li {
-       display: block
+       display: block;
     
 }
 
