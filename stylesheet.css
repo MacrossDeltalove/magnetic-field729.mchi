@@ -58,8 +58,8 @@ header {
    text-align: center;
 }
 
-.menu-icon img {
-    display: none;
+.menu-icon {
+    display: none!important;
  }
 
 .menu-icon img {
