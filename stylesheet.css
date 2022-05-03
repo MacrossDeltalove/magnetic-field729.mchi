@@ -58,6 +58,11 @@ header img {
    text-align: center;
 }
 
+.menu-icon {
+    display: none;
+    }
+    
+    
 .header-right  li {
     float: left;
     margin: 0px;
@@ -417,12 +422,17 @@ footer {
         display: none;
         font-weight: normal;
         z-index: 10;
-   font-family: monotype corsiva;
-   font-size: 25px; 
-   margin-top: 0px;
-   text-align: center;
+        font-family: monotype corsiva;
+        font-size: 25px; 
+        margin-top: 0px;
+        text-align: center;
    }
-} 
 
+   .menu-icon {
+       display: block;
+   }
+     
+   .menu-icon-list {
+       
 }
 
