@@ -36,12 +36,12 @@ header {
     padding: 0px 30px 5px 30px;
     background-color: #ffffff;
     text-align: center;
-    display: inline-block;
+   
  
     
 }
 
-header img {
+.header-icon  {
     height: 90px;
     width: 556px;
     display: inline-block;
