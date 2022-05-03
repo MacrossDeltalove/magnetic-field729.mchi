@@ -332,6 +332,7 @@ footer {
     height: 400px;
     width: 500px;
     padding-left: 70px;
+    margin: 0 auto;
 }
 
 .session-contents h4 {
