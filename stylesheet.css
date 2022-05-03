@@ -66,9 +66,7 @@ header {
     display: none!important;
     }
     
-.menu-icon a{
-    display: none;
- }
+
     
 .menu-icon-list ul{
     display: none!important;
@@ -399,11 +397,11 @@ footer {
 
 @media screen and (max-width: 499px) {
    body {
-       width: 50%;
+       width: 100%;
     }
     
    container {
-       width: 50%
+       width: 100%
     }
     
     li {
@@ -418,7 +416,7 @@ footer {
         position: fixed;
         top: 0px;
         left: 0px;
-        width: 50%;
+        width: 100%;
         margin-bottom: 0px;
         padding: 0px 30px 5px 30px;
         background-color: #ffffff;
@@ -438,8 +436,8 @@ footer {
 
    .menu-icon {
        display: block;
-       width: 40px;
-       height: 30px;
+       width: 80px;
+       height: 60px;
    }
    
    .menu-icon-list {
@@ -453,7 +451,7 @@ footer {
     }
     
    .menu-icon-list-li {
-       
+       display: block
     
 }
 
