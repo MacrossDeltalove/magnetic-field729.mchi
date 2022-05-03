@@ -58,6 +58,15 @@ header {
    text-align: center;
 }
 
+. menu-btn {
+   postion: fixed; 
+   top: 10px;
+   right: 10px;
+   display: flex;
+   height: 60px;
+   width: 60px;
+   jutify-content: center; 
+    
 .menu-icon {
     display: none!important;
  }
