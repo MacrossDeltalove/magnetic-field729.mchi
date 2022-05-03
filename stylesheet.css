@@ -58,10 +58,22 @@ header img {
    text-align: center;
 }
 
-.menu-icon a{
+.menu-icon img {
     display: none;
+ }
+
+.menu-icon img {
+    width: 100px;
+    height: 60px;
     }
     
+.menu-icon a{
+    display: none;
+ }
+    
+.menu-icon-list ul{
+    display: none;
+    }   
     
 .header-right  li {
     float: left;
