@@ -44,7 +44,7 @@ header {
 .header-icon  {
     height: 90px;
     width: 556px;
-    display: inline-block;
+    
     margin-bottm: 0px;
     
 }
@@ -69,7 +69,7 @@ header {
    align-items: center;
    z-index: 90; rg
    background-color:　#ffffff;
-   cursor: pointer;
+   
    
    }
     
@@ -97,15 +97,16 @@ header {
     top: 8px;
     }
     
-#menu-btn-check: checked ~ .menu-btn span {
+#menu-btn-check:checked ~ .menu-btn span {
     background-color: rgba(255, 255, 255, 0);
     }
-#menu-btn-check: checked ~ .menu-btn span:before {
+    
+#menu-btn-check: hecked ~ .menu-btn span::before {
     bottom: 0px;
     transform: rotate(45deg);
     }
     
-#menu-btn-check checked ~ .menu-btn span:after {
+#menu-btn-check:checked ~ .menu-btn span::after {
     top: 0px;
     transform: rotate(-45deg);
     }
