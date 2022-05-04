@@ -94,16 +94,21 @@ header {
     top: 8px;
     }
     
-#menu-btn-check: cheked ~ .menu-btn span {
+#menu-btn-check: checked ~ .menu-btn span {
     background-color: rgba(255, 255, 255, 0);
     }
-#menu-btn-check: cheked ~ .menu-btn span:before {
+#menu-btn-check: checked ~ .menu-btn span:before {
+    bottom: 0px;
     transform: rotate(45deg);
     }
     
-#menu-btn-check cheked ~ .menu-btn span:after {
+#menu-btn-check checked ~ .menu-btn span:after {
+    top: 0px;
     transform: rotate(-45deg);
     }
+    
+#menu-btn-check {
+    display: none
     
 .menu-content {
     width: 100%;
