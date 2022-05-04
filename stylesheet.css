@@ -112,7 +112,8 @@ header {
     }
     
 #menu-btn-check {
-    display: none
+    display: none;
+    }
     
 .menu-content {
     width: 100%;
