@@ -73,6 +73,10 @@ header {
    
    }
     
+.menu-btn:hover {
+    cursor: pointer;
+    }
+    
 .menu-btn span,
 .menu-btn span:before,
 .menu-btn span:after {
