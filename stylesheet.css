@@ -76,6 +76,11 @@ header {
 .menu-btn:hover {
     cursor: pointer;
     }
+
+.menu-btn span {
+   display: block;
+   padding:  60px 60px;
+    }
     
 .menu-btn span,
 .menu-btn span:before,
