@@ -170,58 +170,6 @@ header {
     left: 0px;
     }
     
-.header-right  li {
-    float: left;
-    margin: 0px;
-    position: relative;
-    
-    
-}
-    
-.header-right a {
-    color: #ffffff;
-    background-color: #69DFFF;
-    line-height: 45px;
-    text-align: center;
-    padding: 10px 20px 10px 20px;
-    width: 200px;
-   
-}
-
-.header-right a:hover {
-    background-color: #A3EBFF;
-    transition: 0.8s;
-}
-
-.header-right ul {
-    display: none;
-    margin: 0px;
-    padding: 0px;
-    
-}
-
-
-.header-right li li a{
-    border-top: 1px solid #ffffff;
-    
-}
-    
-
-    
-
-.header-right li:hover ul {
-    position: absolute;
-    top: 45px;
-    display: block;
-    transition: 0.7s;
-   
-}
-
-.sub  {
-    width: 350px;
-    font-size: 19px;
-    font-family: Yu Mincho;
-    }
 
 .article {
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/top-wrapper-image-twinkle_00028.jpg?raw=true");
