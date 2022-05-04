@@ -121,9 +121,10 @@ header {
     height: 100%;
     position: fixed;
     top: 0px;
-    left: 0px;
+    left: 100%;
     z-index: 80;
     background-color:  #69DFFF;
+    transition: all 0.5s;
     }
     
 .menu-content ul {
