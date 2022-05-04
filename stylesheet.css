@@ -116,7 +116,7 @@ header {
     }
     
 .menu-content {
-    display: none;
+    visibility: hidden;
     width: 50%;
     height: 100%;
     
@@ -160,7 +160,7 @@ header {
 
     
 #menu-btn-check:cheked ~ .menu-content {
-    display: block;
+    visibility: visible;
     }
     
 
