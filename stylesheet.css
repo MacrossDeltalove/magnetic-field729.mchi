@@ -116,7 +116,7 @@ header {
     }
     
 .menu-content {
-    
+    display: none;
     width: 50%;
     height: 100%;
     
