@@ -231,7 +231,7 @@ header {
     
 .pickup img:hover {
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
-    
+    transition-duration: 0.5s;
     }
     
 .pickup-img {
@@ -284,7 +284,7 @@ header {
 
 .advertising img:hover {
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
-    transform: translateY(-10px);
+    
     transition-duration: 0.5s;
     }
     
