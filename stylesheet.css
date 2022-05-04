@@ -101,7 +101,7 @@ header {
     transform: rotate(45deg);
     }
     
-#menu-btn-check cheked = .menu-btn span:after {
+#menu-btn-check cheked ~ .menu-btn span:after {
     transform: rotate(-45deg);
     }
 
