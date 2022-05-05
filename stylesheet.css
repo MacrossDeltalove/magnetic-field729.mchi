@@ -32,9 +32,8 @@ header {
     max-width: 1741px;
     height: 253px;
     margin: 0px;
-    position: fixed;
-    top: 0px;
-    left: 0px;
+    position: relative;
+    
     
     
    
