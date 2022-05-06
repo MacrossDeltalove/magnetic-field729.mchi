@@ -60,13 +60,10 @@ header {
     
     
 .menu-btn {
-   postion: relative; 
+   postion: fixed; 
    top: 170px;
-   right: 10px;
+   left: 20px;
    display: flex;
-   
-   justify-content: center;
-   align-items: center;
    z-index: 90; 
    background-color:　#ffffff;
    
