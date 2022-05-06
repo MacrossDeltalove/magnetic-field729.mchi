@@ -153,6 +153,11 @@ header {
     top: 16px;
     }
     
+.menu-content a:hover {
+    background-color: background-color: #A3EBFF;
+    transition: 0.8s;
+    }
+    
 .sub {
     font-family: Yu Mincho;
     font-size: 15px;
@@ -479,47 +484,173 @@ footer {
 
 
 @media screen and (max-width: 499px) {
-   body {
-       max-width: 499px;
-       width: 100%;
+body {
+    margin: 0 auto;
+    max-width: 1741px;
+    width: 100%;
+}
+
+li {
+   list-style: none;
+}
+
+a {
+ text-decoration: none;
+}
+
+.container {
+    max-width: 1500px;
+    width: 100%;
+    margin: 0 auto;
+ 
+}
+
+header {
+    background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%20(45).png?raw=true");
+    background-size: cover;
+    background-position: center;
+    max-width: 1741px;
+    height: 253px;
+    margin: 0px;
+    position: relative;
+    
+}
+
+
+
+
+
+.hanburger-menu {
+    height: 100%;
+    float: left;
+    padding-top: 100px;
     }
     
-   container {
-       max-width: 499px;
-       width: 100%
+    
+.menu-btn {
+   position: absolute; 
+   top: 30px;
+   left: 30px;
+   
+   z-index: 90; 
+   background-color:　#ffffff;
+   
+   
+   }
+    
+.menu-btn:hover {
+    cursor: pointer;
+}
+
+.menu-btn a {
+    display: block;
+    height: 30px;
+    width: 30px;
+    margin: 0px;
+}
+    
+.menu-btn span,
+.menu-btn span:before,
+.menu-btn span:after {
+    content: '';
+    display: block;
+    height: 3px;
+    width: 25px;
+    border-radius: 3px;
+    background-color: rgb(197, 197, 197);
+    position: absolute;
     }
     
-    li {
-       list-style: none;
+.menu-btn span:before {
+    bottom: 8px;
+    position: relative;
+    }
+    
+.menu-btn span:after {
+    top: 8px;
+    }
+    
+#menu-btn-check:checked ~ .menu-btn span {
+    background-color: rgba(255, 255, 255, 0);
+    }
+    
+#menu-btn-check:checked ~ .menu-btn span::before {
+    bottom: 0px;
+    transform: rotate(45deg);
+    }
+    
+#menu-btn-check:checked ~ .menu-btn span::after {
+    top: 0px;
+    transform: rotate(-45deg);
+    }
+    
+#menu-btn-check {
+    display: none;
+    }
+    
+.menu-content {
+    visibility: hidden;
+    
+    padding: 10px;
+    position: absolute;
+    top: 15px;
+    left: 25px;
+    z-index: 80;
+    background-color:  #69DFFF;
+    
+    font-family: monotype corsiva;
+    font-size: 23px;
+    }
+    
+.menu-content ul {
+    margin: 0px;
     }
 
-    a {
-       text-decoration: none;
+.menu-content ul li {
+    border-bottom: solid 1px #ffffff;
+    
     }
     
-    header {
-        position: fixed;
-        top: 0px;
-        left: 0px;
-        max-width: 499px;
-        width: 100%;
-        margin-bottom: 0px;
-        padding: 0px 30px 5px 30px;
-        background-color: #ffffff;
-        text-align: center;
-        
+.menu-content ul li a {
+    display: block;
+    width: 100%;
+    
+    box-sizing: border-box;
+    color: #ffffff;
+    padding: 9px 15px 10px 0px;
+    position: relative;
     }
     
-     .header-icon img {
-        max-width:499px;
-        width: 100%;
-        display: inline-block;
-        margin-bottm: 0px;
+.menu-content ul li a::before {
+    content: "";
+    width: 7px;
+    height: 7px;
+    border-top: solid 2px #ffffff;
+    border-right: solid 2px #ffffff;
+    transform: rotate(45deg);
+    position: absolute;
+    right: 11px;
+    top: 16px;
+    }
+    
+.menu-content a:hover {
+    background-color: background-color: #A3EBFF;
+    transition: 0.8s;
+    }
+    
+.sub {
+    font-family: Yu Mincho;
+    font-size: 15px;
+    }
+    
+#menu-btn-check:checked ~ .menu-content {
+    visibility: visible;
     }
     
    .header-right {
-        display: none!important;
+        display: none;
    }
+
 
   
     
