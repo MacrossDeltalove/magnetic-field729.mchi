@@ -88,6 +88,7 @@ header {
     
 .menu-btn span:before {
     bottom: 8px;
+    position: relative;
     }
     
 .menu-btn span:after {
@@ -116,12 +117,12 @@ header {
     visibility: hidden;
     width: 50%;
     height: 100%;
-    
-    top: 10px;
+    position: absolute;
+    top: 0px;
     left: 0px;
     z-index: 80;
     background-color:  #69DFFF;
-    transition: all 0.5s;
+    
     font-family: monotype corsiva;
     font-size: 20px;
     }
