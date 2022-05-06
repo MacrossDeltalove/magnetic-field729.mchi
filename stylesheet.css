@@ -60,10 +60,10 @@ header {
     
     
 .menu-btn {
-   postion: fixed; 
-   top: 300px;
+   postion: absolute; 
+   top: 30px;
    left: 30px;
-   padding-top: 30px;
+   
    z-index: 90; 
    background-color:　#ffffff;
    
