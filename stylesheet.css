@@ -130,6 +130,7 @@ header {
     background-color:  #69DFFF;
     transition: all 0.5s;
     font-family: monotype corsiva;
+    font-size: 20px;
     }
     
 .menu-content ul {
@@ -165,6 +166,7 @@ header {
     
 .sub {
     font-family: Yu Mincho;
+    font-size: 15px;
     }
     
 #menu-btn-check:checked ~ .menu-content {
