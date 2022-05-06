@@ -166,7 +166,8 @@ header {
    margin-top: 0px;
    text-align: center;
    position: absolute;
-   top: 100px;
+   top: 160px;
+   justify-content: center;
     
 }
     
@@ -521,7 +522,7 @@ header {
    position: absolute; 
    top: 30px;
    left: 30px;
-   
+   visibility: visible;
    z-index: 90; 
    background-color:　#ffffff;
    
