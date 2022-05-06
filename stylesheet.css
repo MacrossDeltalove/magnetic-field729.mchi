@@ -110,10 +110,10 @@ header {
     
 .menu-content {
     visibility: hidden;
-    width: 50%;
-    padding-top:10px;
+    
+    padding: 10px;
     position: absolute;
-    top: 20px;
+    top: 15px;
     left: 25px;
     z-index: 80;
     background-color:  #69DFFF;
