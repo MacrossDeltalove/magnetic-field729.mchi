@@ -35,16 +35,6 @@ header {
     position: relative;
     
 }
-
-
-
-
-
-.hanburger-menu {
-    height: 100%;
-    float: left;
-    padding-top: 100px;
-    }
     
     
 .menu-btn {
@@ -651,7 +641,36 @@ header {
         display: none;
    }
 
+.contents-wrapper {
+    display: flex;
+    }
+    
+.advertising {
+    max-width: 499px;
+    width: 100%;
+    }
 
+.pickup {
+    max-width: 499px;
+    width: 100%;
+    }
+    
+.update-news {
+    max-width: 499px;
+    width: 100%;
+    }
+    
+.article-list {
+    max-width: 499px;
+    width: 100%
+    }
+    
+.session-menu {
+    max-width: 499px;
+    width: 100%;
+    }
+    
+    
   
     
 }
