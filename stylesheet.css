@@ -138,7 +138,7 @@ header {
 
 .menu-content ul li {
     border-bottom: solid 1px #ffffff;
-    font-family: Yu Mincho;
+    
     }
     
 .menu-content ul li a {
@@ -163,7 +163,9 @@ header {
     top: 16px;
     }
     
-
+.sub {
+    font-family: Yu Mincho;
+    }
     
 #menu-btn-check:checked ~ .menu-content {
     visibility: visible;
