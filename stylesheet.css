@@ -234,6 +234,7 @@ header {
     
     width: 80%;
     background-size: cover;
+    margin: 0 auto;
      
     
 }
@@ -252,7 +253,7 @@ header {
     
 .contents-wrapper {
    display: flex;
-    
+   margin: 0 auto; 
     }
  
 
@@ -662,8 +663,9 @@ footer {
     
   .contents-wrapper {
     display: flex;
-      max-width: 450x;
-      width: 100%;
+    max-width: 450x;
+    width: 100%;
+    flex-flow: column;
     }
   
   .message {
@@ -678,12 +680,7 @@ footer {
     
 }      
         
-  .message img {
-      max-width:400px;
-      width: 100%;
-      heght: auto;
-    }
-    
+ 
   .advertising {
     max-width: 499px;
     width: 100%;
