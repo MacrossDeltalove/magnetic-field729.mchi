@@ -725,7 +725,26 @@ footer {
       height: auto;
     }
     
+   footer {
+   max-width: 499px;
+    width: 100%;
+ 
+    background-color: #CA6FFD;
+    color: #ffffff;
+    padding: 13px 30px;
+    text-align: center;
     
+}
+
+
+.footer-list a {
+    color: #ffffff;
+    text-align: center;
+}
+
+.footer-list a:hover {
+    text-decoration: underline;
+} 
   
     
 }
