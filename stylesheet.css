@@ -167,7 +167,7 @@ header {
    text-align: center;
    position: absolute;
    top: 160px;
-   left: 10px;
+   left: 130px;
    
    
 }
@@ -225,10 +225,7 @@ header {
     
 }
 
-.contents-wrapper {
-   display: flex;
-    
-    }
+
 
 .message {
     margin: 50px 50px 80px 100px;
@@ -252,10 +249,13 @@ header {
     width: 100%;
     height: 100%;
 }
- 
-.contents-left {
-    display: block;
+    
+.contents-wrapper {
+   display: flex;
+    
     }
+ 
+
     
 .pickup {
     margin: 0px 50px 100px 100px;
@@ -657,13 +657,26 @@ footer {
     max-width: 499px;
     width: 100%;
     margin: 0 auto;
+    }
     
   .contents-wrapper {
     display: flex;
       max-width: 450x;
       width: 100%;
     }
+  
+  .message {
+    margin: 50px 50px 80px 100px;
+    background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/face-1312945_1920.jpg?raw=true");
+    padding: 20px 0px 60px 30px;
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+    background-size: cover;
+     
     
+}      
+        
   .message img {
       max-width:400px;
       width: 100%;
@@ -690,6 +703,7 @@ footer {
   .pickup-img {
       max-widh: 300px;
       width: 100%;
+      heght: auto;
     }
   
   .pickup-img img {
@@ -705,8 +719,17 @@ footer {
     
   .article-list {
     max-width: 400px;
-    width: 100%
-    }
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    background-color: rgba(255,255, 255, 0.7); 
+    height: 100%;
+    padding: 20px;
+    
+    margin: 50px 50px 50px 100px;
+    font-family: Yu Mincho;
+    
+}
     
   .article-list img {
       max-width: 250px;
@@ -717,6 +740,14 @@ footer {
   .session-menu {
     max-width: 400px;
     width: 100%;
+    box-sizing: border-box;
+    border: none;
+    background-color: rgba(255,255, 255, 0.7); 
+    height: 100%;
+    padding: 20px;
+    
+    margin: 50px 50px 50px 100px;
+    font-family: Yu Mincho;
     }
     
   .session-menu img {
