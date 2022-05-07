@@ -228,7 +228,7 @@ header {
 
 
 .message {
-    margin: 50px 50px 80px 100px;
+    margin: 50px 50px 30px 100px;
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/face-1312945_1920.jpg?raw=true");
     padding: 20px 0px 60px 30px;
     
@@ -258,7 +258,7 @@ header {
 
     
 .pickup {
-    margin: 0px 50px 100px 100px;
+    margin: 50px 50px 100px 100px;
     padding: 5px 50px 1px 50px;
     background-color: rgba(255, 255, 255, 0.7);
     box-sizing: border-box;
@@ -316,7 +316,7 @@ header {
 
 .advertising {
     
-    margin: 0px 100px 50px 100px;
+    margin: 50px 100px 50px 100px;
     font-family: Yu Mincho;
     padding-bottom: 30px;
     background-color: rgba(255, 255, 255, 0.8);
