@@ -649,33 +649,65 @@ footer {
       width: 100%;
     }
     
+  .message img {
+      max-width:400px;
+      width: 100%;
+      heght: auto;
+    }
+    
   .advertising {
     max-width: 499px;
     width: 100%;
     }
  
   .advertising img {
-      max-width: 
+      max-width: 250px;
+      width: 100%;
+      height: auto;
+    }
   
      
   .pickup {
-    max-width: 499px;
+    max-width: 400px;
     width: 100%;
     }
     
+  .pickup-img {
+      max-widh: 300px;
+      width: 100%;
+    }
+  
+  .pickup-img img {
+      max-width: 250px;
+      width: 100%;
+      height: auto;
+    }
+    
   .update-news {
-    max-width: 499px;
+    max-width: 400px;
     width: 100%;
     }
     
   .article-list {
-    max-width: 499px;
+    max-width: 400px;
     width: 100%
     }
     
+  .article-list img {
+      max-width: 250px;
+      width: 100%;
+      height: auto;
+    }
+    
   .session-menu {
-    max-width: 499px;
+    max-width: 400px;
     width: 100%;
+    }
+    
+  .session-menu img {
+      max-width: 250px;
+      width: 100%;
+      height: auto;
     }
     
     
