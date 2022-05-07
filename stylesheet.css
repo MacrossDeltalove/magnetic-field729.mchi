@@ -505,7 +505,7 @@ footer {
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%20(45).png?raw=true");
     background-size: cover;
     background-position: center;
-    max-width: 499px;
+    max-width: 700px;
     width: 100%;
     height: 253px;
     margin: 0px;
@@ -645,13 +645,19 @@ footer {
 
   .contents-wrapper {
     display: flex;
+      max-width: 499px;
+      width: 100%;
     }
     
   .advertising {
     max-width: 499px;
     width: 100%;
     }
-
+ 
+  .advertising img {
+      max-width: 
+  
+     
   .pickup {
     max-width: 499px;
     width: 100%;
