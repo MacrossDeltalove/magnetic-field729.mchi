@@ -299,7 +299,7 @@ header {
     background-color: rgba(255, 255, 255, 0.7);
     box-sizing: border-box;
     border: none;
-    max-width: 680px;
+    max-width: 700px;
     width: 100%x;
     
     padding: 5px 50px 50px 50px;
@@ -316,11 +316,11 @@ header {
 
 .advertising {
     
-    margin: 0px 100px 50px 50px;
+    margin: 0px 100px 50px 100px;
     font-family: Yu Mincho;
     padding-bottom: 30px;
     background-color: rgba(255, 255, 255, 0.8);
-    width: 400px;
+    width: 450px;
     
     
     text-align: center;
