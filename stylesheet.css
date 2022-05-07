@@ -225,6 +225,9 @@ header {
     
 }
 
+.contents-wrapper {
+   display: flex;
+    }
 
 .message {
     margin: 50px 50px 80px 100px;
@@ -308,7 +311,7 @@ header {
 
 
 .advertising {
-    float: right;
+    
     margin: 0px 100px 50px 50px;
     font-family: Yu Mincho;
     padding-bottom: 30px;
@@ -645,7 +648,7 @@ footer {
 
   .contents-wrapper {
     display: flex;
-      max-width: 499px;
+      max-width: 450x;
       width: 100%;
     }
     
