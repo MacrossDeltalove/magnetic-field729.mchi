@@ -167,7 +167,7 @@ header {
    text-align: center;
    position: absolute;
    top: 160px;
-   left: 
+   left: 100px;
    
    
 }
@@ -227,6 +227,7 @@ header {
 
 .contents-wrapper {
    display: flex;
+    
     }
 
 .message {
@@ -646,6 +647,14 @@ footer {
     visibility: hidden;
    }
 
+    .article {
+    background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/top-wrapper-image-twinkle_00028.jpg?raw=true");
+    background-size: cover;
+    background-attachment: fixed;
+    max-width: 499px;
+    width: 100%;
+    margin: 0 auto;
+    
   .contents-wrapper {
     display: flex;
       max-width: 450x;
