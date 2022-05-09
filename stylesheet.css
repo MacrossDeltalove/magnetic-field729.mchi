@@ -238,6 +238,10 @@ header {
      
     
 }
+    
+.message img {
+    display: none;
+    }
 
 .message h3 {
     padding: 40px　0px 40px 30px;
