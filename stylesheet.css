@@ -684,7 +684,7 @@ footer {
         
  
   .advertising {
-    backgroud-color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(255, 255, 255, 0.7);
     max-width: 399px;
     width: 100%;
     text-align: center;
@@ -700,15 +700,19 @@ footer {
   
      
   .pickup {
-    backgroung-color: rgba(255, 255, 255, 0.7);
-    max-width: 400px;
+    background-color: rgba(255, 255, 255, 0.7);
+    max-width: 399px;
     width: 100%;
     margin: 0 auto;
     margin-left: 20px;
     }
     
+  .pickup h1 {
+      margin-left: 20px;
+    }
+    
   .pickup-img {
-      max-widh: 380px;
+      max-width: 380px;
       width: 100%;
       heght: auto;
     }
@@ -770,7 +774,7 @@ footer {
     width: 100%;
     box-sizing: border-box;
     border: none;
-    background-color: rgba(255,255, 255, 0.7); 
+    background-color: rgba(255, 255, 255, 0.7); 
     height: 100%;
     padding: 20px;
     
