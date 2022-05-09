@@ -435,6 +435,7 @@ footer {
     height: 100%;
     margin: 50px 50px 50px 140px;
     font-family: Yu Mincho;
+    align-items: center;
 }
 
 .session-contents h3 {
@@ -446,10 +447,9 @@ footer {
 }
     
 .session-menu img {
-    width: 400px;
-    height: 500px;
-    padding-left: 70px;
-    margin: 0 auto;
+    width: 600px;
+    height: 400px;
+
 }
 
 .session-contents h4 {
