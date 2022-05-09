@@ -149,12 +149,7 @@ header {
     transition: 0.8s;
     }
     
-.sub li{
-    font-family: Yu Mincho;
-    font-size: 18px;
-    width: 300px;
-    
-    }
+
     
 #menu-btn-check:checked ~ .menu-content {
     visibility: visible;
@@ -183,7 +178,7 @@ header {
 .header-right a {
     color: #ffffff;
     background-color: #69DFFF;
-    line-height: 45px;
+    line-height: 46px;
     text-align: center;
     padding: 10px 20px 10px 20px;
     margin: 0px;
@@ -198,7 +193,8 @@ header {
 .header-right ul {
     display: none;
     margin: 0px;
-    padding: 0px;   
+    padding: 0px;
+    
         }
         
 .header-right li li a{
@@ -207,12 +203,18 @@ header {
         
 .header-right li:hover ul {
     position: absolute;
-    top: 45px;
+    top: 46px;
+    left: 0px;
     display: block;
     transition: 0.7s;
         }    
     
+ .sub li{
+    font-family: Yu Mincho;
+    font-size: 20px;
+    width: 300px;
     
+    }   
     
 .article {
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/top-wrapper-image-twinkle_00028.jpg?raw=true");
@@ -520,9 +522,9 @@ footer {
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%20(45).png?raw=true");
     background-size: cover;
     background-position: center;
-    max-width: 700px;
+    max-width: 499px;
     width: 100%;
-    height: 253px;
+    height: 50%;
     margin: 0px;
     position: relative;
     
