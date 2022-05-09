@@ -447,8 +447,8 @@ footer {
 }
     
 .session-menu img {
-    height: 400px;
-    width: 500px;
+    width: 400px;
+    height: 500px;
     padding-left: 70px;
     margin: 0 auto;
 }
@@ -490,7 +490,15 @@ footer {
  }
 }    
   
+input text {
+    border: 1px solid #a1a1a1;
+    border-radius: 2px;
+}
 
+textarea {
+    border: 1px solid #a1a1a1;
+    border-radius: 2px;
+}
 
 
 
@@ -804,6 +812,9 @@ footer {
       width: 100%;
       height: auto;
     }
+    
+ .   
+    
     
    footer {
    max-width: 499px;
