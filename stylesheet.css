@@ -165,7 +165,7 @@ header {
    position: absolute;
    top: 160px;
    left: 130px;
-   display: flex;
+
    
 }
     
@@ -195,7 +195,7 @@ header {
     display: none;
     margin: 0px;
     padding: 0px;
-    
+    display: flex;
         }
         
 .header-right li li a{
