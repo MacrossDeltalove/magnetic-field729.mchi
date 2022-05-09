@@ -701,22 +701,27 @@ footer {
      
   .pickup {
     backgroung-color: rgba(255, 255, 255, 0.7);
-    max-width: 450px;
+    max-width: 400px;
     width: 100%;
     margin: 0 auto;
-    margin-left: 40px;
+    margin-left: 20px;
     }
     
   .pickup-img {
-      max-widh: 400px;
+      max-widh: 380px;
       width: 100%;
       heght: auto;
     }
    
-  .pickup-img h3, p  {
+  .pickup-img h3  {
       color: #424242;
       margin: 
     }
+    
+  .pickup-img p  {
+      color: #424242;
+      margin: 
+    }  
   
   .pickup-img img {
       max-width: 350px;
@@ -728,7 +733,11 @@ footer {
       background-color: rgba(255, 255, 255, 0.8);
       max-width: 399px;
       width: 100%;
-      margin-left: 40px;
+      margin-left: 20px;
+    }
+    
+  .update-news h1 {
+      margin-left: 20px;
     }
     
   .update-news a {
