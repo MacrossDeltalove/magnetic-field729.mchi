@@ -172,7 +172,7 @@ header {
 .header-right  li {
     float: left;
     margin: 0px;
-    position: relative;
+    
         }
             
 .header-right a {
@@ -194,7 +194,7 @@ header {
     display: none;
     margin: 0px;
     padding: 0px;
-    
+    position: relative;
         }
         
 .header-right li li a{
@@ -203,7 +203,7 @@ header {
         
 .header-right li:hover ul {
     position: absolute;
-    top: 46px;
+    top: 47px;
     left: 0px;
     display: block;
     transition: 0.7s;
@@ -739,6 +739,7 @@ textarea {
       max-width: 380px;
       width: 100%;
       heght: auto;
+      align-items: center;
     }
    
   .pickup-img h3  {
@@ -813,10 +814,7 @@ textarea {
       height: auto;
     }
     
- .   
-    
-    
-   footer {
+ .footer {
    max-width: 499px;
     width: 100%;
  
