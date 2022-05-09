@@ -669,13 +669,16 @@ footer {
     }
   
   .message {
-    margin: 20px 50px 80px 20px;
+      
+      }
+    
+  .woman {
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/face-1312945_1920.jpg?raw=true");
-    padding: 20px 0px 60px 30px;
-    max-width: 400px;
-    width: 50%;
+    max-width: 499px;
+    
+    width: 100%;
     height: auto;
-    background-size: cover;
+    
      
     
 }      
@@ -684,34 +687,36 @@ footer {
   .advertising {
     max-width: 499px;
     width: 100%;
+    text-align: center;
     }
  
   .advertising img {
       max-width: 250px;
       width: 100%;
       height: auto;
+      
     }
   
      
   .pickup {
-    max-width: 400px;
+    max-width: 499px;
     width: 100%;
     }
     
   .pickup-img {
-      max-widh: 300px;
+      max-widh: 400px;
       width: 100%;
       heght: auto;
     }
   
   .pickup-img img {
-      max-width: 250px;
+      max-width: 350px;
       width: 100%;
       height: auto;
     }
     
   .update-news {
-    max-width: 400px;
+    max-width: 499px;
     width: 100%;
     }
     
