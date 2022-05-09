@@ -170,7 +170,7 @@ header {
 }
     
 .header-right  li {
-    
+    float: left;
     margin: 0px;
     
         }
@@ -195,7 +195,7 @@ header {
     display: none;
     margin: 0px;
     padding: 0px;
-    display: flex;
+    
         }
         
 .header-right li li a{
@@ -826,12 +826,12 @@ textarea {
    }
 
 
-   footer-list a {
+   .footer-list a {
     color: #ffffff;
     text-align: center;
    }
 
-   footer-list a:hover {
+   .footer-list a:hover {
     text-decoration: underline;
    } 
   
