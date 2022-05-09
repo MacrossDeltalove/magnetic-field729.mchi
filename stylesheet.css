@@ -672,8 +672,7 @@ footer {
       margin: 0 auto;
       }
     
-  .woman {
-    background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/face-1312945_1920.jpg?raw=true");
+  .message img {
     max-width: 499px;
     
     width: 100%;
@@ -694,6 +693,7 @@ footer {
       max-width: 250px;
       width: 100%;
       height: auto;
+      margin-bottom: 30px;
       
     }
   
@@ -709,8 +709,8 @@ footer {
       heght: auto;
     }
    
-  pickup-omg h3, p {
-      color: #000000;
+  pickup-img h3, p {
+      color: #424242;
     }
   
   .pickup-img img {
@@ -720,16 +720,17 @@ footer {
     }
     
   .update-news {
-    max-width: 499px;
-    width: 100%;
+      background-color: rgba(255, 255, 255, 0.8);
+      max-width: 399px;
+      width: 100%;
     }
     
   .update-news a {
-      color: #000000;
+      color: #424242;
     }
     
   .article-list {
-    max-width: 400px;
+    max-width: 360px;
     width: 100%;
     box-sizing: border-box;
     border: none;
@@ -737,7 +738,7 @@ footer {
     height: 100%;
     padding: 20px;
     
-    margin: 0px 10px 50px 10px;
+    margin: 0px 20px 50px 20px;
     font-family: Yu Mincho;
     
 }
@@ -746,10 +747,11 @@ footer {
       max-width: 250px;
       width: 100%;
       height: auto;
+      margin: 0 auto;
     }
     
   .session-menu {
-    max-width: 400px;
+    max-width: 360px;
     width: 100%;
     box-sizing: border-box;
     border: none;
@@ -757,7 +759,7 @@ footer {
     height: 100%;
     padding: 20px;
     
-    margin: 0px 10px 50px 10px;
+    margin: 0px 20px 50px 20px;
     font-family: Yu Mincho;
     }
     
