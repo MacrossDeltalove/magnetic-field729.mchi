@@ -669,7 +669,7 @@ footer {
     }
   
   .message {
-      
+      margin: 0 auto;
       }
     
   .woman {
@@ -678,7 +678,7 @@ footer {
     
     width: 100%;
     height: auto;
-    
+    margin: 0 auto;
      
     
 }      
