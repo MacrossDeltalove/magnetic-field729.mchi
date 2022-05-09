@@ -149,9 +149,11 @@ header {
     transition: 0.8s;
     }
     
-.sub {
+.sub li{
     font-family: Yu Mincho;
-    font-size: 15px;
+    font-size: 18px;
+    width: 300px;
+    
     }
     
 #menu-btn-check:checked ~ .menu-content {
