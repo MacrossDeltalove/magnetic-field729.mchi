@@ -708,6 +708,10 @@ footer {
       width: 100%;
       heght: auto;
     }
+   
+  pickup-omg h3, p {
+      color: #000000;
+    }
   
   .pickup-img img {
       max-width: 350px;
@@ -718,6 +722,10 @@ footer {
   .update-news {
     max-width: 499px;
     width: 100%;
+    }
+    
+  .update-news a {
+      color: #000000;
     }
     
   .article-list {
