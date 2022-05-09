@@ -170,7 +170,7 @@ header {
 }
     
 .header-right  li {
-    float: left;
+    display: flex;
     margin: 0px;
     
         }
@@ -182,7 +182,8 @@ header {
     text-align: center;
     padding: 10px 20px 10px 20px;
     margin: 0px;
-    width: 200px;  
+    width: 200px;
+    position: relative;
         }
         
 .header-right a:hover {
@@ -194,7 +195,7 @@ header {
     display: none;
     margin: 0px;
     padding: 0px;
-    position: relative;
+    
         }
         
 .header-right li li a{
@@ -202,14 +203,12 @@ header {
         }   
         
 .header-right li:hover ul {
-    position: absolute;
-    top: 47px;
-    left: 0px;
+    
     display: block;
     transition: 0.7s;
         }    
     
- .sub li{
+ .sub a {
     font-family: Yu Mincho;
     font-size: 20px;
     width: 300px;
