@@ -165,12 +165,12 @@ header {
    position: absolute;
    top: 160px;
    left: 130px;
-   
+   display: flex
    
 }
     
 .header-right  li {
-    display: flex;
+    
     margin: 0px;
     
         }
