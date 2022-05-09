@@ -701,7 +701,7 @@ footer {
      
   .pickup {
     background-color: rgba(255, 255, 255, 0.7);
-    max-width: 399px;
+    max-width: 360px;
     width: 100%;
     margin: 0 auto;
     margin-left: 20px;
@@ -735,7 +735,7 @@ footer {
     
   .update-news {
       background-color: rgba(255, 255, 255, 0.8);
-      max-width: 399px;
+      max-width: 360px;
       width: 100%;
       margin-left: 20px;
     }
