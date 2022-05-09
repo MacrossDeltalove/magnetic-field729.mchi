@@ -652,7 +652,7 @@ footer {
     visibility: hidden;
    }
 
-    .article {
+  .article {
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/top-wrapper-image-twinkle_00028.jpg?raw=true");
     background-size: cover;
     background-attachment: fixed;
@@ -680,11 +680,12 @@ footer {
     margin: 0 auto;
      
     
-}      
+   }      
         
  
   .advertising {
-    max-width: 499px;
+    backgroud-color: rgba(255, 255, 255, 0.7);
+    max-width: 399px;
     width: 100%;
     text-align: center;
     }
@@ -699,8 +700,11 @@ footer {
   
      
   .pickup {
-    max-width: 499px;
+    backgroung-color: rgba(255, 255, 255, 0.7);
+    max-width: 450px;
     width: 100%;
+    margin: 0 auto;
+    margin-left: 40px;
     }
     
   .pickup-img {
@@ -709,8 +713,9 @@ footer {
       heght: auto;
     }
    
-  pickup-img h3, p {
+  .pickup-img h3, p  {
       color: #424242;
+      margin: 
     }
   
   .pickup-img img {
@@ -723,6 +728,7 @@ footer {
       background-color: rgba(255, 255, 255, 0.8);
       max-width: 399px;
       width: 100%;
+      margin-left: 40px;
     }
     
   .update-news a {
