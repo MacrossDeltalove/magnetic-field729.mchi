@@ -345,7 +345,7 @@ header {
 
 .advertising {
     
-    margin: 50px 100px 50px 100px;
+    margin: 50px 0px 50px 50px;
     font-family: Yu Mincho;
     padding-bottom: 30px;
     background-color: rgba(255, 255, 255, 0.8);
