@@ -275,7 +275,9 @@ header {
    margin: 0 auto; 
     }
  
-
+.contents-left {
+    margin: 0;
+    }
     
 .pickup {
     margin: 50px 50px 100px 0px;
