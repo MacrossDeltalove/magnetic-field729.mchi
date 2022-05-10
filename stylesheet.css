@@ -206,7 +206,9 @@ header {
     
     display: block;
     transition: 0.7s;
-        }    
+        }  
+    
+    
 .sub {
     position: absolute;
     top: 47px;
