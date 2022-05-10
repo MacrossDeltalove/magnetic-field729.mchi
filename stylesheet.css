@@ -203,7 +203,7 @@ header {
         }   
         
 .header-right li:hover ul {
-    
+    position: absolute;
     display: block;
     transition: 0.7s;
         }  
@@ -223,7 +223,7 @@ header {
     display: block;
     font-family: Yu Mincho;
     font-size: 20px;
-    width: 330px;
+    width: 360px;
     border-top: 1px solid #ffffff;
     }   
     
@@ -343,7 +343,7 @@ header {
     font-family: Yu Mincho;
     padding-bottom: 30px;
     background-color: rgba(255, 255, 255, 0.8);
-    max-width: 400px;
+    max-width: 500px;
     width: 100%;
     align-items: center;
     text-align: center;
