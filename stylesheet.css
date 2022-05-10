@@ -735,7 +735,7 @@ textarea {
     }
  
   .advertising img {
-      max-width: 280px;
+      max-width: 220px;
       width: 100%;
       height: auto;
 
@@ -754,6 +754,8 @@ textarea {
     
   .pickup h1 {
       margin-left: 20px;
+      margin-top: 0px;
+      padding-top: 0px;
     }
     
   .pickup-img {
@@ -770,7 +772,7 @@ textarea {
     
   .pickup-img p  {
       color: #424242;
-      align-items: center;
+      
     }  
   
   .pickup-img img {
