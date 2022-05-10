@@ -242,7 +242,7 @@ header {
     vertical-align: bottom;
     overflow: hidden;
     margin: 0 auto;
-    align-items: center;
+    
 }
 
 
@@ -699,7 +699,7 @@ textarea {
     
   .contents-wrapper {
     display: flex;
-    max-width: 950x;
+    max-width: 950px;
     width: 100%;
     margin: 0 auto;
     display: flex;
@@ -759,7 +759,7 @@ textarea {
     }
     
   .pickup-img {
-      max-width: 380px;
+      max-width: 370px;
       width: 100%;
       heght: auto;
       margin: 0 auto;
