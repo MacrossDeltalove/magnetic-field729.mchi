@@ -172,7 +172,7 @@ header {
 .header-right  li {
     float: left;
     margin: 0px;
-    
+    position: relative;
         }
             
 .header-right a {
@@ -183,7 +183,7 @@ header {
     padding: 10px 20px 10px 20px;
     margin: 0px;
     width: 200px;
-    position: relative;
+    
         }
         
 .header-right a:hover {
@@ -209,7 +209,7 @@ header {
         }  
     
     
-.sub {
+.sub li {
     position: absolute;
     top: 47px;
     left: 0px;
