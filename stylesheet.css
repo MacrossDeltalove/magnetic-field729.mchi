@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-@media screen and (min-width: 960px) {
+@media screen and (min-width: 980px) {
 
 body {
     margin: 0 auto;
@@ -203,13 +203,14 @@ header {
         }   
         
 .header-right li:hover ul {
-    position: absolute;
+    
     display: block;
     transition: 0.7s;
         }  
     
-.sub ul {
+.sub {
     display: block;
+    position: absolute;
     }
     
 .sub li {
@@ -225,7 +226,12 @@ header {
     font-size: 20px;
     width: 360px;
     border-top: 1px solid #ffffff;
-    }   
+    }
+    
+.sub li li a{
+    display: block;
+    
+    }
     
 .article {
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/top-wrapper-image-twinkle_00028.jpg?raw=true");
@@ -518,10 +524,10 @@ textarea {
     border-radius: 2px;
 }
 
-@media screen and (min-width: 500px) and (max-width: 959px) {
+@media screen and (min-width: 500px) and (max-width: 979px) {
     body {
     margin: 0 auto;
-    max-width: 959px;
+    max-width: 979px;
     width: 100%;
   }
 
@@ -544,7 +550,7 @@ textarea {
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%20(45).png?raw=true");
     background-size: cover;
     background-position: center;
-    max-width: 959px;
+    max-width: 979px;
     width: 100%;
     height: 50%;
     margin: 0px;
@@ -686,7 +692,7 @@ textarea {
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/top-wrapper-image-twinkle_00028.jpg?raw=true");
     background-size: cover;
     background-attachment: fixed;
-    max-width: 959px;
+    max-width: 979px;
     width: 100%;
     margin: 0 auto;
     }
@@ -695,8 +701,8 @@ textarea {
     display: flex;
     max-width: 900x;
     width: 100%;
-    
     align-items: center;
+    display: flex;
     }
   
   .message {
@@ -729,7 +735,7 @@ textarea {
     }
  
   .advertising img {
-      max-width: 250px;
+      max-width: 300px;
       width: 100%;
       height: auto;
 
@@ -771,7 +777,7 @@ textarea {
       max-width: 400px;
       width: 100%;
       height: auto;
-      align-items: center;
+      
     }
     
   .update-news {
@@ -1024,6 +1030,7 @@ textarea {
     background-attachment: fixed;
     max-width: 499px;
     width: 100%;
+    height: auto;
     margin: 0 auto;
     }
     
@@ -1134,13 +1141,13 @@ textarea {
     height: 100%;
     padding: 20px;
     align-items: center;
-    margin: 0px 20px 50px 20px;
+    margin: 0 auto;
     font-family: Yu Mincho;
     
 }
     
   .article-list img {
-      max-width: 250px;
+      max-width: 300px;
       width: 100%;
       height: auto;
       margin: 0 auto;
@@ -1155,12 +1162,12 @@ textarea {
     height: 100%;
     padding: 20px;
     align-items: center;
-    margin: 0px 20px 50px 20px;
+    margin: 0 auto;
     font-family: Yu Mincho;
     }
     
   .session-menu img {
-      max-width: 250px;
+      max-width: 300px;
       width: 100%;
       height: auto;
     }
