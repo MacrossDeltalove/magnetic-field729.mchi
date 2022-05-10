@@ -767,7 +767,7 @@ textarea {
     
     padding: 20px;
     
-    margin: auto;
+    margin:0px 14px 14px 14px auto;
     font-family: Yu Mincho;
     }
     
@@ -810,7 +810,7 @@ textarea {
     
     padding: 20px;
     
-    margin:  auto;
+    margin:0px 14px 14px 14px auto;
     font-family: Yu Mincho;
     }
     
@@ -950,7 +950,7 @@ textarea {
     justify-content: center;
     height: 100px;
     margin: 0 auto;
-    
+    position: fixed;
     position: relative;
   }
 
@@ -1203,7 +1203,7 @@ textarea {
     height: 100%;
     padding: 20px;
     align-items: center;
-    margin: 0 auto;
+    margin: 10px 0 0 10px;
     font-family: Yu Mincho;
     
    }
