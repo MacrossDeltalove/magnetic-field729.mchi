@@ -940,9 +940,9 @@ textarea {
     background-size: cover;
     background-position: center;
     justify-content: center;
-    height: 75px;
+    height: 90px;
     margin: 0 auto;
-    /* align-items: center; */
+    
     position: relative;
   }
 
@@ -955,7 +955,7 @@ textarea {
   .menu-btn {
    position: absolute; 
    top: 30px;
-   left: 30px;
+   left: 15px;
    visibility: visible;
    z-index: 90; 
    background-color:　#ffffff;
@@ -1019,7 +1019,7 @@ textarea {
     padding: 10px;
     position: absolute;
     top: 15px;
-    left: 25px;
+    left: 10px;
     z-index: 80;
     background-color:  #69DFFF;
     
