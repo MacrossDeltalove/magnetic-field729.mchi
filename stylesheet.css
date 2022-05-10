@@ -208,8 +208,12 @@ header {
     transition: 0.7s;
         }  
     
+.sub ul {
+    display: block;
+    }
     
 .sub li {
+    
     position: absolute;
     top: 47px;
     left: 0px;
@@ -241,8 +245,9 @@ header {
     margin: 50px 50px 30px 140px;
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/face-1312945_1920.jpg?raw=true");
     padding: 20px 0px 60px 30px;
-    
-    width: 80%;
+    max-width: 1500px;
+    width: 100%;
+    height: auto;
     background-size: cover;
     
      
