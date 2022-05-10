@@ -203,7 +203,7 @@ header {
         }   
         
 .header-right li:hover ul {
-    
+    postion: absolute;
     display: block;
     transition: 0.7s;
         }  
@@ -349,7 +349,7 @@ header {
     font-family: Yu Mincho;
     padding-bottom: 30px;
     background-color: rgba(255, 255, 255, 0.8);
-    max-width: 500px;
+    max-width: 450px;
     width: 100%;
     align-items: center;
     text-align: center;
@@ -491,7 +491,7 @@ footer {
 }
 
 .p-earth {
-    margin-top: 0px;
+    margin-top: 5px;
     }
     
 .mebius {
@@ -701,7 +701,7 @@ textarea {
     display: flex;
     max-width: 900x;
     width: 100%;
-    align-items: center;
+    margin: 0 auto;
     display: flex;
     }
   
@@ -748,7 +748,7 @@ textarea {
     max-width: 450px;
     width: 100%;
     margin: 0 auto;
-    align-items: center;
+    
     
     }
     
@@ -760,7 +760,7 @@ textarea {
       max-width: 400px;
       width: 100%;
       heght: auto;
-      align-items: center;
+      margin: 0 auto;
     }
    
   .pickup-img h3  {
@@ -784,6 +784,7 @@ textarea {
       background-color: rgba(255, 255, 255, 0.8);
       max-width: 450px;
       width: 100%;
+      margin: 0 auto;
       
     }
     
@@ -804,7 +805,7 @@ textarea {
     height: 100%;
     padding: 20px;
     
-    margin: 0px 20px 50px 20px;
+    margin: 0 auto;
     font-family: Yu Mincho;
     
 }
@@ -813,7 +814,7 @@ textarea {
       max-width: 400px;
       width: 100%;
       height: auto;
-      margin: 0 auto;
+      
     }
     
   .session-menu {
@@ -825,7 +826,7 @@ textarea {
     height: 100%;
     padding: 20px;
     
-    margin: 0px 20px 50px 20px;
+    margin: 0 auto;
     font-family: Yu Mincho;
     }
     
@@ -833,7 +834,7 @@ textarea {
       max-width: 400px;
       width: 100%;
       height: auto;
-      margin: 0 auto;
+      
     }
     
    footer {
@@ -1087,7 +1088,7 @@ textarea {
     max-width: 360px;
     width: 100%;
     margin: 0 auto;
-    align-items: center;
+    
     
     }
     
@@ -1099,7 +1100,7 @@ textarea {
       max-width: 380px;
       width: 100%;
       heght: auto;
-      align-items: center;
+      margin: 0 auto;
     }
    
   .pickup-img h3  {
@@ -1109,20 +1110,21 @@ textarea {
     
   .pickup-img p  {
       color: #424242;
-      align-items: center;
+      
     }  
   
   .pickup-img img {
       max-width: 350px;
       width: 100%;
       height: auto;
-      align-items: center;
+      
     }
     
   .update-news {
       background-color: rgba(255, 255, 255, 0.8);
       max-width: 360px;
       width: 100%;
+      margin: 0 auto;
       
     }
     
@@ -1146,7 +1148,7 @@ textarea {
     margin: 0 auto;
     font-family: Yu Mincho;
     
-}
+   }
     
   .article-list img {
       max-width: 300px;
