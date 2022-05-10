@@ -201,24 +201,20 @@ header {
 .header-right li li a{
     border-top: 1px solid #ffffff;
         }   
-        
+
+.sub ul{
+    display: none;
+    margin: 0px;
+    padding: 0px;
+    }    
+    
 .header-right li:hover ul {
     postion: absolute;
     display: block;
     transition: 0.7s;
-        }  
-    
-.sub {
-    display: block;
-    position: absolute;
-    }
-    
-.sub li {
-    display: block;
-    position: absolute;
     top: 47px;
-    left: 0px;
-    }
+    left: 0px
+        }  
     
 .sub a {
     display: block;
@@ -228,10 +224,7 @@ header {
     border-top: 1px solid #ffffff;
     }
     
-.sub li li a{
-    display: block;
-    position: absolute;
-    }
+
     
 .article {
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/top-wrapper-image-twinkle_00028.jpg?raw=true");
@@ -707,6 +700,7 @@ textarea {
     width: 100%;
     height: 100%;
     margin: 0 auto;
+    vertical-align: bottom;
     }
     
   .contents-wrapper {
