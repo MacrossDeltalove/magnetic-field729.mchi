@@ -759,14 +759,16 @@ textarea {
   
      
   .pickup {
-    box-sizing: border-box;
-    border: none;
-    background-color: rgba(255, 255, 255, 0.7);
     max-width: 400px;
     width: 100%;
+    box-sizing: border-box;
+    border: none;
+    background-color: rgba(255,255, 255, 0.7); 
+    height: 100%;
+    padding: 20px;
+    
     margin: 0 auto;
-    
-    
+    font-family: Yu Mincho;
     }
     
   .pickup h1 {
@@ -800,13 +802,16 @@ textarea {
     }
     
   .update-news {
-      box-sizing: border-box;
-      border: none;
-      background-color: rgba(255, 255, 255, 0.7);
-      max-width: 400px;
-      width: 100%;
-      margin: 0 auto;
-      
+    max-width: 400px;
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    background-color: rgba(255,255, 255, 0.7); 
+    height: 100%;
+    padding: 20px;
+    
+    margin: 0 auto;
+    font-family: Yu Mincho;
     }
     
   .update-news h1 {
