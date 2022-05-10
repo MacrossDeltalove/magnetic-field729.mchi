@@ -767,7 +767,7 @@ textarea {
     
     padding: 20px;
     
-    margin:0px 14px 14px 14px auto;
+    margin:0px 14px 14px 14px;
     font-family: Yu Mincho;
     }
     
@@ -810,12 +810,13 @@ textarea {
     
     padding: 20px;
     
-    margin:0px 14px 14px 14px auto;
+    margin:0px 14px 14px 14px;
     font-family: Yu Mincho;
     }
     
   .update-news h1 {
       margin-left: 20px;
+      margin-top: 0;
     }
     
   .update-news a {
