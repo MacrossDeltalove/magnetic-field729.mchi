@@ -182,7 +182,7 @@ header {
     text-align: center;
     padding: 10px 20px 10px 20px;
     margin: 0px;
-    width: 200px;
+    
     
         }
         
@@ -688,7 +688,7 @@ textarea {
     display: flex;
     max-width: 900x;
     width: 100%;
-    flex-flow: column;
+    
     align-items: center;
     }
   
@@ -731,7 +731,7 @@ textarea {
      
   .pickup {
     background-color: rgba(255, 255, 255, 0.7);
-    max-width: px;
+    max-width: 500px;
     width: 100%;
     margin: 0 auto;
     align-items: center;
@@ -743,7 +743,7 @@ textarea {
     }
     
   .pickup-img {
-      max-width: 380px;
+      max-width: 400px;
       width: 100%;
       heght: auto;
       align-items: center;
@@ -760,7 +760,7 @@ textarea {
     }  
   
   .pickup-img img {
-      max-width: 350px;
+      max-width: 400px;
       width: 100%;
       height: auto;
       align-items: center;
@@ -768,7 +768,7 @@ textarea {
     
   .update-news {
       background-color: rgba(255, 255, 255, 0.8);
-      max-width: 360px;
+      max-width: 500px;
       width: 100%;
       
     }
@@ -782,7 +782,7 @@ textarea {
     }
     
   .article-list {
-    max-width: 360px;
+    max-width: 500px;
     width: 100%;
     box-sizing: border-box;
     border: none;
@@ -796,14 +796,14 @@ textarea {
 }
     
   .article-list img {
-      max-width: 250px;
+      max-width: 400px;
       width: 100%;
       height: auto;
       margin: 0 auto;
     }
     
   .session-menu {
-    max-width: 360px;
+    max-width: 500px;
     width: 100%;
     box-sizing: border-box;
     border: none;
@@ -816,7 +816,7 @@ textarea {
     }
     
   .session-menu img {
-      max-width: 250px;
+      max-width: 400px;
       width: 100%;
       height: auto;
     }
