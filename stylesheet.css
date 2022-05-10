@@ -230,7 +230,7 @@ header {
     
 .sub li li a{
     display: block;
-    
+    position: absolute;
     }
     
 .article {
@@ -699,7 +699,7 @@ textarea {
     
   .contents-wrapper {
     display: flex;
-    max-width: 900x;
+    max-width: 950x;
     width: 100%;
     margin: 0 auto;
     display: flex;
@@ -774,7 +774,7 @@ textarea {
     }  
   
   .pickup-img img {
-      max-width: 400px;
+      max-width: 370px;
       width: 100%;
       height: auto;
       
@@ -782,7 +782,7 @@ textarea {
     
   .update-news {
       background-color: rgba(255, 255, 255, 0.8);
-      max-width: 450px;
+      max-width: 400px;
       width: 100%;
       margin: 0 auto;
       
@@ -797,7 +797,7 @@ textarea {
     }
     
   .article-list {
-    max-width: 450px;
+    max-width: 400px;
     width: 100%;
     box-sizing: border-box;
     border: none;
@@ -811,14 +811,14 @@ textarea {
 }
     
   .article-list img {
-      max-width: 400px;
+      max-width: 370px;
       width: 100%;
       height: auto;
       
     }
     
   .session-menu {
-    max-width: 500px;
+    max-width: 400px;
     width: 100%;
     box-sizing: border-box;
     border: none;
@@ -831,7 +831,7 @@ textarea {
     }
     
   .session-menu img {
-      max-width: 400px;
+      max-width: 370px;
       width: 100%;
       height: auto;
       
