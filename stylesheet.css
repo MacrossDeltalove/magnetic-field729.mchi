@@ -172,7 +172,7 @@ header {
 .header-right  li {
     float: left;
     margin: 0px;
-    position: relative;
+    
         }
             
 .header-right a {
@@ -182,7 +182,7 @@ header {
     text-align: center;
     padding: 10px 20px 10px 20px;
     margin: 0px;
-    
+    position: relative;
     
         }
         
@@ -210,12 +210,7 @@ header {
     left: 0px
         } 
 
-.sub {
-   width: 320px;
-    
-    }
-
-.sub li {
+.sub a {
     position: absolute;
     font-type: Yu Mincho;
     width: 320px;
