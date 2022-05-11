@@ -206,18 +206,19 @@ header {
     postion: absolute;
     display: block;
     transition: 0.7s;
-    top: 47px;
-    left: 0px
+    
         } 
 
 .sub a {
-    display: block;
+    
     position: absolute;
+    top: 47px;
+    left: 0px;
     font-family: Yu Mincho;
     width: 320px;
     }
     
-
+.sub li 
 
 
     
@@ -746,6 +747,9 @@ textarea {
       
     }
   
+  .contents-left {
+      justify-content: center;
+    }
      
   .pickup {
     max-width: 400px;
@@ -756,7 +760,7 @@ textarea {
     
     padding: 20px;
     
-    margin:0px 14px 14px 14px;
+    margin:0 auto;
     font-family: Yu Mincho;
     }
     
@@ -799,7 +803,7 @@ textarea {
     
     padding: 20px;
     
-    margin:0px 14px 14px 14px;
+    margin:0 auto;
     font-family: Yu Mincho;
     }
     
