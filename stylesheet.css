@@ -202,32 +202,7 @@ header {
     border-top: 1px solid #ffffff;
         }   
 
-.sub ul{
-    display: none;
-    margin: 0px;
-    padding: 0px;
-    }    
-    
-.header-right li:hover ul {
-    postion: absolute;
-    display: block;
-    transition: 0.7s;
-    top: 47px;
-    left: 0px
-        } 
-    
-.sub ul li {
-    display: block;
-    position: absolute;
-    }
-    
-.sub a {
-    display: block;
-    font-family: Yu Mincho;
-    font-size: 20px;
-    width: 360px;
-    border-top: 1px solid #ffffff;
-    }
+
     
 
     
