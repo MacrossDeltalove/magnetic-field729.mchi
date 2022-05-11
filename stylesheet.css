@@ -950,7 +950,7 @@ textarea {
     justify-content: center;
     height: 100px;
     margin: 0 auto;
-    position: fixed;
+    
     position: relative;
   }
 
@@ -1078,7 +1078,7 @@ textarea {
     
   #menu-btn-check:checked ~ .menu-content {
     visibility: visible;
-    transform: translateY(100%);
+    
     }
     
   .header-right {
