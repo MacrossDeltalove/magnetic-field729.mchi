@@ -223,9 +223,12 @@ header {
     font-family: Yu Mincho;
     width: 400px;
     font-size: 17px;
-}
+   }
     
-
+.sub a {
+    width: 400px;
+    height: 100%;
+    }
 
 
     
