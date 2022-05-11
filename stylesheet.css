@@ -210,7 +210,7 @@ header {
     left: 0px
         } 
 
-.sub li a {
+.sub a {
     
     display: block;
     font-family: Yu Mincho;
@@ -591,7 +591,7 @@ textarea {
     height: 3px;
     width: 25px;
     border-radius: 3px;
-    background-color: rgb(197, 197, 197);
+    background-color: rgb(101, 101, 101);
     position: absolute;
     }
     
