@@ -212,7 +212,9 @@ header {
 
 .sub a {
     position: absolute;
-    font-type: Yu Mincho;
+    top: 47px;
+    left: 0px;
+    font-family: Yu Mincho;
     width: 320px;
     }
 
