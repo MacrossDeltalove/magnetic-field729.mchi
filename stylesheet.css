@@ -210,10 +210,9 @@ header {
     left: 0px
         } 
 
-.sub a {
+.sub li a {
     position: absolute;
-    top: 47px;
-    left: 0px;
+    display: block;
     font-family: Yu Mincho;
     width: 320px;
     }
