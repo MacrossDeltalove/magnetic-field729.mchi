@@ -211,12 +211,12 @@ header {
         } 
 
 .sub {
-    display: flex;
+   
     font-type: Yu Mincho;
     }
 
 .sub li {
-    flex-flow: column;
+   
     width: 320px;
     }
 
