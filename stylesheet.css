@@ -178,8 +178,8 @@ header {
 .header-right a {
     color: #ffffff;
     background-color: #69DFFF;
-    line-height: 46px;
-    text-align: center;
+    
+    
     padding: 10px 20px 10px 20px;
     margin: 0px;
     position: relative;
@@ -197,6 +197,12 @@ header {
     padding: 0px;
     
         }
+    
+.header-right li {
+    position: relative;
+    height: 42px;
+    }
+        
         
 .header-right li li a{
     border-top: 1px solid #ffffff;
@@ -210,13 +216,14 @@ header {
     left: 0px;
         } 
 
-.sub a {
-    
+.sub {
     position: absolute;
-    
+    top: 47px;
+    left: 0px;
     font-family: Yu Mincho;
-    width: 320px;
-    }
+    width: 400px;
+    font-size: 17px;
+}
     
 
 
