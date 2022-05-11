@@ -1095,6 +1095,7 @@ textarea {
     height: 100%;
     padding-top: 100px;
     margin: 0 auto;
+    vertical-align: bottom;
     }
     
   .contents-wrapper {
@@ -1109,6 +1110,8 @@ textarea {
       
       margin: 0 auto;
       text-align: center;
+      margin-top: 20px;
+      margin-bottom: 20px;
       }
     
  .message h3 {
@@ -1129,11 +1132,12 @@ textarea {
  
   .advertising {
     background-color: rgba(255, 255, 255, 0.7);
-    max-width: 360px;
+    max-width: 320px;
     width: 100%;
     text-align: center;
-    margin: 20px 0 20px 0;
-  
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px  
     }
  
   .advertising img {
@@ -1150,7 +1154,9 @@ textarea {
     max-width: 360px;
     width: 100%;
     margin: 0 auto;
-    
+    margin-top: 20px;
+    margin-bottom: 20px;
+      
     
     }
     
@@ -1187,7 +1193,8 @@ textarea {
       max-width: 360px;
       width: 100%;
       margin: 0 auto;
-      
+      margin-top: 20px;
+      margin-bottom: 20px;
     }
     
   .update-news h1 {
@@ -1228,7 +1235,9 @@ textarea {
     height: 100%;
     padding: 20px;
     justify-content: center;
-    margin:20px 0 20px 0;
+    margin: 0 auto;
+    margin-top:20px;
+    margin-bottom: 20px;
     font-family: Yu Mincho;
     }
     
