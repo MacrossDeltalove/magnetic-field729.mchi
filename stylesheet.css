@@ -172,7 +172,7 @@ header {
 .header-right  li {
     float: left;
     margin: 0px;
-    position: relative;
+    
         }
             
 .header-right a {
@@ -201,9 +201,16 @@ header {
 .header-right li li a{
     border-top: 1px solid #ffffff;
         }   
-
-
     
+.header-right li:hover ul {
+    postion: absolute;
+    display: block;
+    transition: 0.7s;
+    top: 47px;
+    left: 0px
+        } 
+    
+
 
     
 .article {
