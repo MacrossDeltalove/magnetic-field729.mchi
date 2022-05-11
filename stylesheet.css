@@ -210,7 +210,7 @@ header {
     
 .header-right li:hover ul {
     postion: absolute;
-    
+    display: block;
     transition: 0.7s;
     top: 47px;
     left: 0px;
