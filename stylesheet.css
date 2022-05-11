@@ -211,12 +211,13 @@ header {
         } 
 
 .sub {
-   
-    font-type: Yu Mincho;
+   width: 320px;
+    
     }
 
 .sub li {
-   
+    position: absolute;
+    font-type: Yu Mincho;
     width: 320px;
     }
 
