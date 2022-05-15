@@ -508,9 +508,23 @@ footer {
     box-shadow: 5px 5px 5px rgba(255, 255, 255, 0.5);
 }
 
-.submit-button:action {
+button.submit-button {
+    width: 200px;
+    padding: 10px 20px;
+    background-color: #2578ff;
+    color: #ffffff;
+    border-radius: 4px;
+    border: none;
+    margin: 5px 0px 0px 30px;
+    box-shadow: 5px 5px 5px rgb(255 255 255 / 50%);
+}
+
+button.submit-button:hover {
+    cursor: pointer;
+}
+
+button.submit-button:active {
     background-color: #5b9aff;
- 
 }    
   
 input,text {
