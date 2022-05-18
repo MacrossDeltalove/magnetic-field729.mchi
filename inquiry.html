@@ -73,19 +73,20 @@
               <form method="post" action="erfalg-4hj.php">
                   <h3>お問い合わせ</h3>
                   <p>お名前</p>
-                  <input type="text">
+                  <input type="text" name="name1" value="<?php if(!empty($_POST['name1'])) {echo $_POST['name1'];} ?>">
                   <p>フリガナ</p>
-                  <input type="text" name="name">
+                  <input type="text" name="name2" value="<?php if(!empty($_POST['name2'])) {echo $_POST['name2'];} ?>">
                   <p>性別</p>
-                   <select name="selection">
+                   <select name="sex" value="<?php if(!empty($_POST['sex'])) {echo $_POST['sex'];} ?>">
                       <option value="contents1">男性</option>
                       <option value="contents2">女性</option>
                       <option value="contents3">他</option>
                    </select>
                   <p>メールアドレス</p>
-                  <input type="text"　name="mail">
+                  <input type="text"　name="email" value="<?php if(!empty($_POST['email'])) {echo $_POST['email'];} ?>">
                   <p>お問い合わせ</p>
-                  <textarea name="contents" placeholder="セッションご希望の方はご希望の日時(第三希望まで)の記載をお願い致します。<br>(例　アクセスバーズ90分を希望しております。第一希望〇月〇日10：00～)"></textarea>
+                  <textarea name="remarks" placeholder="セッションご希望の方はご希望の日時(第三希望まで)の記載をお願い致します。
+                                                         (例　アクセスバーズ90分を希望しております。第一希望〇月〇日10：00～)" value="<?php if(!empty($_POST['remarks'])) {echo $_POST['remarks'];} ?>"></textarea>
                   
                   <button type="submit" name="btn_confirm" class="submit-button">入力内容を確認する</button>
               </form>
