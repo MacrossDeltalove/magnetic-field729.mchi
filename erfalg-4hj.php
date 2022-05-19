@@ -30,7 +30,7 @@ if (!empty($_POST['btn_confirm'])){
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 <body>
-    <?php if($page === 0): ?>
+  <?php if($page === 0): ?>
    <header>
        <div class="hamburger-menu">
               <input type="checkbox" id="menu-btn-check">
@@ -93,8 +93,76 @@ if (!empty($_POST['btn_confirm'])){
           
      <div class="contents-wrapper">    
           
-          <div class="confirm">
+          <div class="article-list">
+              <form method="post" action="erfalg-4hj.php">
+                  <h3>お問い合わせ</h3>
+                  <p>お名前</p>
+                  <input type="text" name="name1" value="<?php if(!empty($_POST['name1'])) {echo $_POST['name1'];} ?>">
+                  <p>フリガナ</p>
+                  <input type="text" name="name2" value="<?php if(!empty($_POST['name2'])) {echo $_POST['name2'];} ?>">
+                  <p>性別</p>
+                   <select name="sex" value="<?php if(!empty($_POST['sex'])) {echo $_POST['sex'];} ?>">
+                      <option value="contents1">男性</option>
+                      <option value="contents2">女性</option>
+                      <option value="contents3">他</option>
+                   </select>
+                  <p>メールアドレス</p>
+                  <input type="text"　name="email" value="<?php if(!empty($_POST['email'])) {echo $_POST['email'];} ?>">
+                  <p>お問い合わせ</p>
+                  <textarea name="remarks" placeholder="セッションご希望の方はご希望の日時(第三希望まで)の記載をお願い致します。
+                                                         (例　アクセスバーズ90分を希望しております。第一希望〇月〇日10：00～)"><?php if(!empty($_POST['remarks'])) {echo $_POST['remarks'];} ?></textarea>
+                  
+                  <button type="submit" name="btn_confirm" class="submit-button">入力内容を確認する</button>
+              </form>
+           </div>
+              
+            <div class="advertising">
+             <h3>「寝ながら」聞くだけで簡単に解放する</h3>
+             <h4>気づきを妨げるディストラクターインプラント<br>(怒り・罪悪感・自己/他者への<br>ジャッジメントなど)を解放</h4>
+             <a href="https://www.accessconsciousness.com/en/shop-catalog/all/distractor-implants-feb-12-teleseries/?a_aid=mochiten107&amp;a_bid=11110160" target=""><img src="https://s3.amazonaws.com/accessconsciousness/1-access-shop/small_product_pictures/MP3+Download/40.3_mp3_distractorimplants_teleseries.jpg" alt="Distractor Implants Feb-12 Teleseries" title="Distractor Implants Feb-12 Teleseries" width="275" height="395" /></a>
+             <h4>あらゆる虐待の記憶を解放</h4>
+             <a href="https://www.accessconsciousness.com/en/shop-catalog/all/the-original-clearing-the-issues-of-abuse/?a_aid=mochiten107&amp;a_bid=11110450" target=""><img src="https://s3.amazonaws.com/accessconsciousness/1-access-shop/product_pictures/MP3+Download/40.17_mp3_the_original_clearing_the_issues_of_abuse.jpg" alt="The Original Clearing the Issues of Abuse" title="The Original Clearing the Issues of Abuse" width="265" height="375" /></a>
+             <h4>契約や呪いを愛に変え、穏やかに解放する！</h4>
+             <a href="https://www.talktotheentities.com/product/ttte-clearing-audio-demon-clearing/#a_aid=mochiten107&amp;a_bid=5b008a74" target="_top"><img src="//shannon-ohara.postaffiliatepro.com/accounts/default1/8bo4zndva83/5b008a74.png" alt="English: Demon Clearing Loop" title="English: Demon Clearing Loop" width="504" height="504" class="demon" /></a>
+             <h4>お金、パートナーなどあらゆるものとの<br>リレーションシップを構築する</h4>
+             <a href="https://www.accessconsciousness.com/en/shop-catalog/all/being-you-creating-money-and-sex-with-ease/?a_aid=mochiten107&amp;a_bid=11110070" target=""><img src="https://s3.amazonaws.com/accessconsciousness/1-access-shop/product_pictures/MP3+Download/40.6_mp3_beingyou_creatingmoneyandsex.png" alt="Being You, Creating Money and Sex With Ease" title="Being You, Creating Money and Sex With Ease" width="335" height="503" class="being-you-money-sex" /></a>
+          </div>
+      </div>   
+   </div>   
+</div>
+ 
+<div class="article">
+   <div class="container">
+          
+     <div class="contents-wrapper">    
+          
+          <div class="article-list">
+              <form method="post" action="erfalg-4hj.php">
+                  <h3>お問い合わせ</h3>
+                  <p>お名前</p>
+                  <input type="text" name="name1" value="<?php if(!empty($_POST['name1'])) {echo $_POST['name1'];} ?>">
+                  <p>フリガナ</p>
+                  <input type="text" name="name2" value="<?php if(!empty($_POST['name2'])) {echo $_POST['name2'];} ?>">
+                  <p>性別</p>
+                   <select name="sex" value="<?php if(!empty($_POST['sex'])) {echo $_POST['sex'];} ?>">
+                      <option value="contents1">男性</option>
+                      <option value="contents2">女性</option>
+                      <option value="contents3">他</option>
+                   </select>
+                  <p>メールアドレス</p>
+                  <input type="text"　name="email" value="<?php if(!empty($_POST['email'])) {echo $_POST['email'];} ?>">
+                  <p>お問い合わせ</p>
+                  <textarea name="remarks" placeholder="セッションご希望の方はご希望の日時(第三希望まで)の記載をお願い致します。
+                                                         (例　アクセスバーズ90分を希望しております。第一希望〇月〇日10：00～)"><?php if(!empty($_POST['remarks'])) {echo $_POST['remarks'];} ?></textarea>
+                  
+                  <button type="submit" name="btn_confirm" class="submit-button">入力内容を確認する</button>
+              </form>
+           </div>       
+     
+          
+          
            <?php if($page_flag === 1): ?>
+             <div class="confirm"> 
               <h3>お問い合わせ内容のご確認</h3>
               
               
@@ -118,11 +186,13 @@ if (!empty($_POST['btn_confirm'])){
                   <input type="hidden" name="e-mail" value="<?php echo $_POST['email']; ?>">
                   <input type="hidden" name="remarks" value="<?php echo $_POST['remarks']; ?>">
               </form>
+           <?php endif;?>
               
-              <?php elseif($page_flag === 2): ?>
+           <?php elseif($page_flag === 2): ?>
               <p>送信が完了しました。</p>
               <p>自動返信メールが送信されました。</P>
               <p>メールボックスをご確認ください。</p>
+           
 
               $header = null;
               $auto_reply_subject =null;
