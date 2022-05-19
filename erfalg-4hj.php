@@ -97,20 +97,19 @@ if (!empty($_POST['btn_confirm'])){
               <form method="post" action="erfalg-4hj.php">
                   <h3>お問い合わせ</h3>
                   <p>お名前</p>
-                  <input type="text" name="name1" value="<?php if(!empty($_POST['name1'])) {echo $_POST['name1'];} ?>">
+                  <input type="text" name="name1">
                   <p>フリガナ</p>
-                  <input type="text" name="name2" value="<?php if(!empty($_POST['name2'])) {echo $_POST['name2'];} ?>">
+                  <input type="text" name="name2">
                   <p>性別</p>
-                   <select name="sex" value="<?php if(!empty($_POST['sex'])) {echo $_POST['sex'];} ?>">
+                   <select name="sex">
                       <option value="contents1">男性</option>
                       <option value="contents2">女性</option>
                       <option value="contents3">他</option>
                    </select>
                   <p>メールアドレス</p>
-                  <input type="text"　name="email" value="<?php if(!empty($_POST['email'])) {echo $_POST['email'];} ?>">
+                  <input type="text"　name="email">
                   <p>お問い合わせ</p>
-                  <textarea name="remarks" placeholder="セッションご希望の方はご希望の日時(第三希望まで)の記載をお願い致します。
-                                                         (例　アクセスバーズ90分を希望しております。第一希望〇月〇日10：00～)"><?php if(!empty($_POST['remarks'])) {echo $_POST['remarks'];} ?></textarea>
+                  <textarea name="remarks" placeholder="セッションご希望の方はご希望の日時(第三希望まで)の記載をお願い致します。(例　アクセスバーズ90分を希望しております。第一希望〇月〇日10：00～)"></textarea>
                   
                   <button type="submit" name="btn_confirm" class="submit-button">入力内容を確認する</button>
               </form>
@@ -131,33 +130,20 @@ if (!empty($_POST['btn_confirm'])){
    </div>   
 </div>
  
-<div class="article">
-   <div class="container">
-          
-     <div class="contents-wrapper">    
-          
-          <div class="article-list">
-              <form method="post" action="erfalg-4hj.php">
-                  <h3>お問い合わせ</h3>
-                  <p>お名前</p>
-                  <input type="text" name="name1" value="<?php if(!empty($_POST['name1'])) {echo $_POST['name1'];} ?>">
-                  <p>フリガナ</p>
-                  <input type="text" name="name2" value="<?php if(!empty($_POST['name2'])) {echo $_POST['name2'];} ?>">
-                  <p>性別</p>
-                   <select name="sex" value="<?php if(!empty($_POST['sex'])) {echo $_POST['sex'];} ?>">
-                      <option value="contents1">男性</option>
-                      <option value="contents2">女性</option>
-                      <option value="contents3">他</option>
-                   </select>
-                  <p>メールアドレス</p>
-                  <input type="text"　name="email" value="<?php if(!empty($_POST['email'])) {echo $_POST['email'];} ?>">
-                  <p>お問い合わせ</p>
-                  <textarea name="remarks" placeholder="セッションご希望の方はご希望の日時(第三希望まで)の記載をお願い致します。
-                                                         (例　アクセスバーズ90分を希望しております。第一希望〇月〇日10：00～)"><?php if(!empty($_POST['remarks'])) {echo $_POST['remarks'];} ?></textarea>
-                  
-                  <button type="submit" name="btn_confirm" class="submit-button">入力内容を確認する</button>
-              </form>
-           </div>       
+ <footer>
+      <div class="container">
+         
+         <div class="footer-list">
+             <p>©△PRISM▽ All Rights Reserved.</p>
+             <a href="https://www.beiz.jp/">Designed and destributed by BEIZ images</a>
+                
+         </div>
+      </div>
+</footer>
+
+<?php endif; ?>
+ 
+   
      
           
           
@@ -166,7 +152,7 @@ if (!empty($_POST['btn_confirm'])){
               <h3>お問い合わせ内容のご確認</h3>
               
               
-              <form method="post" action="erfalg-4hj.php">
+              <form method="post" action="">
                   <p>御氏名</p>
                   <p><?php echo $_POST['name1']; ?></p>
                   <p>フリガナ</p>
@@ -241,18 +227,7 @@ if (!empty($_POST['btn_confirm'])){
    </div>   
 </div>
     
-<footer>
-      <div class="container">
-         
-         <div class="footer-list">
-             <p>©△PRISM▽ All Rights Reserved.</p>
-             <a href="https://www.beiz.jp/">Designed and destributed by BEIZ images</a>
-                
-         </div>
-      </div>
-</footer>
 
-</body>
 </html>
 
 <
