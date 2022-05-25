@@ -186,7 +186,7 @@ header {
 .header-right a {
     color: #ffffff;
     background-color: #69DFFF;
-    
+    height: 57px;
     
     padding: 10px 20px 10px 20px;
     margin: 0px;
@@ -208,7 +208,7 @@ header {
     
 .header-right li {
     position: relative;
-    height: 53px;
+    height: 42px;
     }
         
         
@@ -226,7 +226,7 @@ header {
 
 .sub {
     position: absolute;
-    top: 47px;
+    top: 57px;
     left: 0px;
     font-family: Yu Mincho;
     width: 400px;
