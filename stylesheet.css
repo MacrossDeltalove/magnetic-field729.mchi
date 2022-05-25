@@ -173,7 +173,7 @@ header {
    position: absolute;
    top: 160px;
    left: 130px;
-
+   
    
 }
     
@@ -186,9 +186,9 @@ header {
 .header-right a {
     color: #ffffff;
     background-color: #69DFFF;
-    height: 57px;
+   
     
-    padding: 10px 20px 10px 20px;
+    padding: 10px 20px 20px 20px;
     margin: 0px;
     position: relative;
     
