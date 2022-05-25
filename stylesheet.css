@@ -208,7 +208,7 @@ header {
     
 .header-right li {
     position: relative;
-    height: 42px;
+    height: 53px;
     }
         
         
@@ -220,7 +220,7 @@ header {
     postion: absolute;
     display: block;
     transition: 0.7s;
-    top: 57px;
+    top: 47px;
     left: 0px;
         } 
 
