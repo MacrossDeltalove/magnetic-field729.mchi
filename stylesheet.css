@@ -220,13 +220,13 @@ header {
     postion: absolute;
     display: block;
     transition: 0.7s;
-    top: 67px;
+    top: 57px;
     left: 0px;
         } 
 
 .sub {
     position: absolute;
-    top: 67px;
+    top: 57px;
     left: 0px;
     font-family: Yu Mincho;
     width: 400px;
