@@ -2,7 +2,11 @@
     box-sizing: border-box;
 }
 
-.menu-content li {
+.menu-content  {
+    ruby-position: under;
+}
+
+.header-right {
     ruby-position: under;
 }
 
