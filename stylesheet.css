@@ -265,10 +265,10 @@ header {
 
 .message {
     margin: 50px 0px 30px 0px;
-    padding: 100px 100px;
+    padding: 100px 50px;
     max-width: 1200px;
     width: 100%;
-    height: 600px;
+    height: 650px;
     background-size: cover;
     background-image: url("https://github.com/MacrossDeltalove/magnetic-field729.mchi/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%20(68).png?raw=true");
      
