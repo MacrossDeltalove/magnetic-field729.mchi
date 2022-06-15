@@ -771,7 +771,7 @@ textarea {
     box-sizing: border-box;
     border: none;
     background-color: rgba(255, 255, 255, 0.7);
-    max-width: 400px;
+    max-width: 300px;
     width: 100%;
     text-align: center;
     margin: 0 auto;
@@ -1164,7 +1164,7 @@ textarea {
  
   .advertising {
     background-color: rgba(255, 255, 255, 0.7);
-    max-width: 320px;
+    max-width: 360px;
     width: 100%;
     text-align: center;
     margin: 0 auto;
