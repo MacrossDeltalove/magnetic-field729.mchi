@@ -429,10 +429,9 @@ footer {
     
 }
 
-.article-list h3,p {
-    font-family: monotype corsiva;
-    margin-left: 30px;
-    text-align: left;
+.article-list p {
+  text-align: left;
+     
     }
     
 .article-list li {
@@ -444,6 +443,8 @@ footer {
     background-color: #1dbbfe;
     padding:  15px 30px;
     font-family: Yu Mincho;
+    margin-left: 30px;
+    text-align: left;
 }
     
 .article-list img {
