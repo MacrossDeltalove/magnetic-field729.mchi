@@ -1258,11 +1258,13 @@ textarea {
     
    }
     
-  .article-list h3,p {
+  .article-list h3 {
       text-align: left;
     }
     
- 
+  .article-list p {
+      text-align: left;
+    }
     
   .article-list img {
       max-width: 300px;
