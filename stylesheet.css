@@ -425,13 +425,14 @@ footer {
     width: 100%;
     margin: 50px 50px 50px 0px;
     font-family: Yu Mincho;
-    justify-content: center;
+    text-align: center;
     
 }
 
 .article-list h1 {
     font-family: monotype corsiva;
     margin-left: 30px;
+    text-align: left;
     }
     
 .article-list li {
@@ -448,7 +449,7 @@ footer {
 .article-list img {
     opacity: 3.0;
     height: 400px;
-    width:600px;
+    width: auto;
     padding: 5px 30px;
 }
 
@@ -1252,8 +1253,13 @@ textarea {
     margin-top: 20px;
     margin-bottom: 20px;  
     font-family: Yu Mincho;
+    text-align: center;
     
    }
+    
+  .article-slit h1 {
+      text-align: left;
+    }
     
   .article-list img {
       max-width: 300px;
@@ -1293,12 +1299,11 @@ textarea {
     
    }
     
-   .pickup {
-       justify-content: center;
-    }
+ 
     
    .pickup-img {
        justify-content: center;
+       text-align: center;
     }
     
    .footer-list a {
