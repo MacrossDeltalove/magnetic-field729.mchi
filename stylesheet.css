@@ -451,7 +451,7 @@ footer {
     opacity: 3.0;
     height: 400px;
     width: auto;
-    padding: 5px 30px;
+
 }
 
 .article-list h5 {
@@ -1258,9 +1258,11 @@ textarea {
     
    }
     
-  .article-slit h3,p {
+  .article-list h3,p {
       text-align: left;
     }
+    
+ 
     
   .article-list img {
       max-width: 300px;
