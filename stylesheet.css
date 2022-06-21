@@ -426,7 +426,7 @@ footer {
     margin: 50px 50px 50px 0px;
     font-family: Yu Mincho;
     text-align: center;
-    
+    jusity-content: center;
 }
 
 .article-list p {
@@ -443,7 +443,7 @@ footer {
     background-color: #1dbbfe;
     padding:  15px 30px;
     font-family: Yu Mincho;
-    margin-left: 30px;
+   
     text-align: left;
 }
     
