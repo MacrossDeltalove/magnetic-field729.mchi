@@ -1292,7 +1292,11 @@ textarea {
       text-align: center;
     
    }
-
+    
+   .pickup {
+       justify-content: center;
+    }
+    
    .pickup-img {
        justify-content: center;
     }
