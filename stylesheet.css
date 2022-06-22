@@ -1292,13 +1292,41 @@ textarea {
     margin-top:20px;
     margin-bottom: 20px;
     font-family: Yu Mincho;
+    text-align: center;
     }
     
+  .session-contents p {
+    text-align: left;
+    }
+
+.session-contents h3 {
+    color: #ffffff;
+    background-color: #1dbbfe;
+    padding:  10px 30px;
+    text-align: left;
+    
+}  
   .session-menu img {
       max-width: 300px;
       width: 100%;
       height: auto;
     }
+    
+    .session-contents h4 {
+    color: #ffffff;
+    background-color: #6bffd5;
+    padding: 10px;
+    margin-top: 70px;
+    text-align: left;
+}
+
+.session-contents h5 {
+    color: #ffffff;
+    background-color: #69DFFF;
+    padding: 5px;
+    text-align: left;
+}
+
     
    footer {
       max-width: 499px;
