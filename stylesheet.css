@@ -454,6 +454,11 @@ footer {
 
 }
 
+.particle {
+    width: 600ps;
+    height: auto;
+    }
+    
 .article-list h5 {
     font-weight: normal;
     padding: 0px 20px;
