@@ -450,7 +450,7 @@ footer {
 .article-list img {
     opacity: 3.0;
     height: 400px;
-    width: auto;
+    max-width: 600px;
 
 }
 
